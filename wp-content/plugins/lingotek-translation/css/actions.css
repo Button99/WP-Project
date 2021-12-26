@@ -1,0 +1,73 @@
+.lingotek-source-dropdown-toggle,
+.lingotek-target-dropdown-toggle {
+    display: inline-block;
+    height: 30px;
+    width: 20px;
+    background: url("../img/icon-collapse.svg") no-repeat center;
+    transform: rotateZ(180deg);
+    background-size: 15px 15px;
+    padding: 0;
+    padding-left: 0;
+    margin-bottom: 2px;
+    float: right;
+    opacity: .8;
+}
+
+.lingotek-source-dropdown-toggle:focus,
+.lingotek-target-dropdown-toggle:focus {
+    outline: none;
+}
+
+.lingotek-source-dropdown.open .lingotek-source-dropdown-toggle,
+.lingotek-target-dropdown.open .lingotek-target-dropdown-toggle {
+    transform: rotateZ(0);
+}
+
+.lingotek-source-dropdown.open .lingotek-source-actions,
+.lingotek-target-dropdown.open .lingotek-target-actions {
+    display: block;
+}
+
+.lingotek-source-dropdown,
+.lingotek-target-dropdown {
+    position: relative;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.lingotek-source-actions,
+.lingotek-target-actions {
+    display: none;
+    position: absolute;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    font-size: 90%;
+}
+
+.lingotek-source-actions a,
+.lingotek-target-actions a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 12px;
+}
+
+.lingotek-source-actions a:hover,
+.lingotek-target-actions a:hover {
+    background-color: #f1f1f1
+}
+
+.visually-hidden {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+}

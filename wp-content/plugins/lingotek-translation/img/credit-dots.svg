@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="4px" viewBox="0 0 112 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>credit-numbers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="wp-translation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Terms-and-Conditions" transform="translate(-859.000000, -324.000000)" fill="#000000">
+            <g id="modal" transform="translate(-1.000000, 5.000000)">
+                <g id="payment-method" transform="translate(822.000000, 236.000000)">
+                    <g id="credit-info" transform="translate(8.000000, 34.000000)">
+                        <g id="credit-numbers" transform="translate(30.000000, 49.000000)">
+                            <circle id="Oval-13" cx="2" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="10" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="19" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="28" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="42" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="51" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="60" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="69" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="83" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="92" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="101" cy="2" r="2"></circle>
+                            <circle id="Oval-13" cx="110" cy="2" r="2"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

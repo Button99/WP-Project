@@ -1,0 +1,319 @@
+// main: style.scss
+/*--------------------------------------------------------------
+# Structure
+--------------------------------------------------------------*/
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 0 40px;
+    clear: both;
+    @include media-breakpoint-down(md) {
+        padding: 0 20px;
+    }
+}
+
+.site-header {
+    padding: 35px 0;
+    .site-branding {
+        float: none;
+        text-align: center;
+        @include media-breakpoint-up(md) {
+            float: left;
+        }
+        .site-description {
+            margin-bottom: 0;
+            margin-top: 2px;
+            font-size: 13px;
+            font-style: italic;
+        }
+    }
+
+}
+
+.site-title {
+    font-size: 42px;
+    line-height: 40px;
+    text-decoration: none;
+    margin: 0 0 5px 0;
+    text-align: left;
+    font-family: 'Open Sans';
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        color: $color__black;
+    }
+    @include media-breakpoint-down(md) {
+        text-align: center;
+    }
+}
+
+
+
+.header-right {
+    float: none;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+    @include media-breakpoint-up(md) {
+        max-width: 43%;
+        float: right;
+        text-align: right;
+        margin-top: 0;
+    }
+}
+
+
+
+.site-content {
+    clear: both;
+    background-color: #f2f2f0;
+    border-top: 5px solid #dadbd4;
+    border-bottom: 5px solid #dadbd4;
+    padding: 50px 0 30px;
+    @include media-breakpoint-down(md){
+        padding: 30px 0;
+    }
+}
+.full-width {
+    .content-area {
+        width: 100%;
+    }
+}
+
+.content-area {
+    float: left;
+    width: 100%;
+    @include media-breakpoint-up(md){
+        width: 67%;
+    }
+}
+.sidebar {
+    background: #fff;
+    padding: 20px;
+    float: right;
+    width: 100%;
+    margin-top: 40px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+    -webkit-box-shadow : 0 1px 1px rgba(0, 0, 0, 0.08);
+    -moz-box-shadow : 0 1px 1px rgba(0, 0, 0, 0.08);
+    @include media-breakpoint-up(md){
+        width: 30%;
+        margin-top: 0px;
+    }
+}
+
+.left-sidebar {
+    .content-area { float: right;}
+    .sidebar { float: left; }
+    .post-format-icon {
+        right: -50px;
+        left: auto;
+        span::after {
+            border-left-color: #fff;
+            border-right-color: transparent;
+            left: 0;
+        }
+    }
+}
+
+/* Post Navigation */
+.navigation {
+    clear: both;
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 20px;
+
+    a {
+        color: #888;
+        margin-right: 5px;
+        text-decoration: none;
+        &:hover{
+            color: #111;
+            text-decoration: underline;
+        }
+    }
+    .current {
+        color: #111;
+        font-size: 32px;
+        margin-right: 5px;
+    }
+
+}
+.single-post {
+    .navigation {
+        .nav-links {
+            font-size: 16px;
+            color: #999;
+            .nav-previous {
+                float: left;
+                width: 45%;
+                text-align: left;
+            }
+            .nav-next {
+                float: right;
+                width: 45%;
+                text-align: right;
+            }
+            span {
+                font-size: 13px;
+            }
+            h5 {
+                margin: 0;
+                font-weight: 400;
+                a {
+                    color: #444;
+                }
+            }
+        }
+    }
+}
+
+/* search form */
+.wp-block-search {
+    position: relative;
+    input {
+        height: 45px;
+        background: #fff;
+    }
+    button[type="submit"] {
+        display: none;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: auto;
+        border-radius: 0;
+        border: 1px solid #e3e3e3;
+        border-left: 0;
+        color: transparent;
+        content: "\f002";
+        font-family: "FontAwesome";
+    }
+}
+
+#infinite-handle {
+    width: 100%;
+    overflow: hidden;
+    span {
+        background: #FFF;
+        color: #000;
+        display: block;
+        padding: 10px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+        -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+        -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+    }
+}
+.navigation{
+    clear: both;
+    width: 100%;
+    overflow: hidden;
+    background: #fff;
+    color: #000;
+    padding: 15px 20px;
+    font-size: 13px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+    .nav-previous {
+        float: right;
+    }
+    .nav-next {
+        float: left;
+    }
+    a {
+        color: #000;
+        font-size: 13px;
+        text-transform: uppercase;
+        margin: 0;
+    }
+}
+/* Footer */
+.footer-inner {
+    margin: 0;
+    overflow: hidden;
+    @include media-breakpoint-up(md) {
+        margin-left: -0.9375rem;
+        margin-right: -0.9375rem;
+    }
+}
+.footer-widgets {
+    border-top: 1px solid #e5e5e5;
+    margin: 0;
+    padding: 45px 0 20px;
+    .footer-column {
+        float: left;
+        min-height: 1px;
+        padding-left: 0.9375rem;
+        padding-right: 0.9375rem;
+    }
+    .footer-col-1 {
+        width: 100%;
+    }
+    .footer-col-2 {
+        width: 50%;
+    }
+    .footer-col-3 {
+        width: 33.3333%;
+    }
+    .footer-col-4 {
+        width: 25%;
+    }
+    .widget {
+        box-sizing: border-box;
+        float: left;
+        width: 100%;
+        margin-bottom: 20px;
+        padding: 0;
+        li {
+            position: relative;
+            border: none;
+            margin-bottom: 3px;
+            padding-bottom: 3px;
+            &::before{
+                content: "\f501";
+                font-family: 'Genericons';
+        		font-size: 9px;
+        		position: absolute;
+        		top: 5px;
+        		left: 0px;
+        	}
+            a {
+                padding-left: 15px;
+            }
+        }
+    }
+    @include media-breakpoint-down(sm) {
+        .footer-col-1,
+        .footer-col-2,
+        .footer-col-3,
+        .footer-col-4 {
+            width: 100%;
+            padding: 0;
+        }
+    }
+}
+
+.site-info {
+    border-top: 1px solid #e5e5e5;
+    color: #aaa;
+    padding: 20px 0;
+    margin: 0;
+    .site-copyright {
+        font-size: 11px;
+        font-family: 'Open Sans';
+        line-height: 1.75;
+        overflow: hidden;
+        text-transform: uppercase;
+        a {
+            color: #aaa;
+            text-decoration: none;
+        }
+        .copyright-text {
+            float: left;
+        }
+        .design-by {
+            float: right;
+            text-align: right;
+        }
+    }
+}

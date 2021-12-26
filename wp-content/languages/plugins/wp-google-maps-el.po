@@ -1,0 +1,1577 @@
+# Translation of Plugins - WP Google Maps - Development (trunk) in Greek
+# This file is distributed under the same license as the Plugins - WP Google Maps - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-17 11:26:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - WP Google Maps - Development (trunk)\n"
+
+#: includes/class.strings.php:58
+msgid "Please Wait..."
+msgstr "Παρακαλώ περιμένετε..."
+
+#: includes/class.strings.php:55
+msgid "No address specified"
+msgstr "Δεν ορίσατε διεύθυνση"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1503
+#: includes/tables/class.admin-marker-datatable.php:33
+msgid "Mark"
+msgstr "Μαρκάρισμα"
+
+#: html/map-edit-page/map-edit-page.html.php:725
+msgid "Not found message"
+msgstr "Δεν βρέθηκε κανένα μήνυμα"
+
+#: html/map-edit-page/map-edit-page.html.php:473
+msgid "Default radius"
+msgstr "Προεπιλεγμένη ακτίνα"
+
+#: includes/class.store-locator.php:95 includes/class.strings.php:59
+msgid "No results found in this location. Please try again."
+msgstr "Δεν βρέθηκαν αποτελέσματα σε αυτήν την τοποθεσία. Παρακαλώ δοκιμάστε ξανά."
+
+#: html/settings-page.html.php:741
+msgid "Disable InfoWindows"
+msgstr "Απενεργοποίηση παραπομπών."
+
+#: legacy-core.php:195
+msgid "Get Pro Version"
+msgstr "Λάβετε την έκδοση Pro."
+
+#: legacy-core.php:191
+msgid "Map Editor"
+msgstr "Επεξεργασία χάρτη."
+
+#: legacy-core.php:1703
+msgid "We have detected that you are using %s on your website. Please <a href='%s' class='button'>clear your cache</a> to ensure that your map is updated."
+msgstr "Εντοπίσαμε ότι χρησιμοποιείτε %s στην ιστοσελίδα σας. Παρακαλούμε <a href='%s' class='button'>εκκαθαρίστε την μνήμη cache</a> για να διαβεβαιωθείτε οτι ο χάρτης είναι ενημερωμένος."
+
+#: html/map-edit-page/map-edit-page.html.php:682
+msgid "Default address"
+msgstr "Προεπιλεγμένη διεύθυνση"
+
+#: legacy-core.php:1701
+msgid "One or more markers have been added or changed, please <a href='%s' class='button'>clear your cache.</a>"
+msgstr "Ένα ή περισσότερα σημεία προστέθηκαν ή άλλαξαν, παρακαλούμε <a href='%s' class='button'>εκκαθαρίστε την μνήμη cache.</a>"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:141
+#: includes/compat/class.pro-below-8.1-compatibility.php:241
+#: includes/compat/class.pro-below-8.1-compatibility.php:677
+#: includes/compat/class.pro-below-8.1-compatibility.php:787
+#: includes/legacy/functions.circle.php:99
+#: includes/legacy/functions.circle.php:221
+#: includes/legacy/functions.rectangle.php:84
+#: includes/legacy/functions.rectangle.php:192
+#: lib/codecabin/deactivate-feedback-form.php:44
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: html/welcome.html.php:23
+msgid "Skip intro and create a map"
+msgstr "Παράλειψη εισαγωγής και δημιουργία χάρτη."
+
+#: html/welcome.html.php:101
+msgid "Submit and create a map"
+msgstr "Υποβολή και δημιουργία χάρτη"
+
+#: legacy-core.php:1626
+msgid "Before creating a map please follow these steps:"
+msgstr "Πριν τη δημιουργία χάρτη παρακαλούμε ακολουθήστε τις παρακάτω οδηγίες:"
+
+#: legacy-core.php:1632
+msgid "Paste your API key here and press save:"
+msgstr "Επικολλήστε το κλειδί API σας εδώ και πατήστε \"Αποθήκευση\""
+
+#: legacy-core.php:1633
+msgid "paste your Google Maps JavaScript API Key here"
+msgstr "επικολλήστε το κλειδί API σας του Google Maps Javascript εδώ"
+
+#: html/welcome.html.php:36
+msgid "Unlimited Markers"
+msgstr "Απεριόριστα σημάδια"
+
+#: html/welcome.html.php:37
+msgid "Create as many markers as you like"
+msgstr "Δημιουργήστε όσα σημάδια εσείς θέλετε"
+
+#: html/credits.html.php:72
+msgid "Contributors"
+msgstr "Συνεισφέροντες"
+
+#: html/credits.html.php:153
+msgid "Want to see your name on this page?"
+msgstr "Θέλετε να δείτε το όνομά σας σε αυτή τη σελίδα;"
+
+#: html/credits.html.php:42
+msgid "Founder &amp; Lead Developer"
+msgstr "Ιδρυτής &amp; Επικεφαλής προγραμματιστής"
+
+#: html/credits.html.php:155
+msgid "Get involved on GitHub."
+msgstr "Λάβετε μέρος στο GitHub"
+
+#: html/credits.html.php:109
+msgid "Marketing"
+msgstr "Μάρκετινγκ"
+
+#: html/credits.html.php:17 html/welcome.html.php:28
+msgid "Welcome"
+msgstr "Καλωσήρθατε"
+
+#: html/credits.html.php:26
+msgid "WP Google Maps is created by an international team of developers."
+msgstr "To WP Google Maps δημιουργήθηκε από μια παγκόσμια ομάδα προγραμματιστών."
+
+#: html/credits.html.php:11
+msgid "Thank you for updating! WP Google Maps helps you build amazing maps through a simple interface and powerful functionality along with world class support."
+msgstr "Ευχαριστούμε για την ενημέρωση! Το WP Google Maps σας βοηθάει να δημιουργήσετε μοναδικούς χάρτες μέσω ενός απλού περιβάλλοντος χρήσης και με ισχυρές λειτουργίες μαζί με την κορυφαία υποστήριξη που σας προσφέρουμε."
+
+#: legacy-core.php:1622
+msgid "Important Notification"
+msgstr "Σημαντική ειδοποίηση"
+
+#: legacy-core.php:1620
+msgid "View the instruction video"
+msgstr "Παρακολουθήστε το βίντεο οδηγιών"
+
+#: legacy-core.php:1623
+msgid "You can read more about that here."
+msgstr "Διαβάστε περισσότερα σχετικά με αυτό εδώ."
+
+#: legacy-core.php:1642
+msgid "Need help? %s or %s."
+msgstr "Χρειάζεστε βοήθεια; %s ή %s."
+
+#: legacy-core.php:1621
+msgid "Read the documentation"
+msgstr "Διαβάστε το έγγραφο χρήσης"
+
+#: html/map-edit-page/map-edit-page.html.php:2313
+msgid "Heatmaps"
+msgstr "Χάρτες θερμότητας"
+
+#: legacy-core.php:1633
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: legacy-core.php:1604
+msgid "United States of America"
+msgstr "Ηνωμένες Πολιτείες Αμερικής (Η.Π.Α.)"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1480
+#: includes/tables/class.admin-marker-datatable.php:56
+msgid "Edit this marker location"
+msgstr "Επεξεργασία τοποθεσίας σημαδιού"
+
+#: html/map-edit-page/map-edit-page.html.php:12
+msgid "Create your Map"
+msgstr "Δημιουργία χάρτη"
+
+#: html/settings-page.html.php:1146
+msgid "Google Maps API Key (required)"
+msgstr "Κλειδί Google Maps API (απαιτείται)"
+
+#: html/map-list-page.html.php:41 legacy-core.php:1021
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: html/map-list-page.html.php:39 legacy-core.php:1021
+msgid "We will not nag you again, promise!"
+msgstr "Δεν θα σας ενοχλήσουμε πάλι, το υποσχόμαστε!"
+
+#: html/map-list-page.html.php:32 legacy-core.php:1016
+msgid "<h3>We need your love!</h3><p>If you are enjoying our plugin, please consider <a href=\"%1$s\" target=\"_blank\" class=\"button-border button-border__green\">reviewing WP Google Maps</a>. It would mean the world to us! If you are experiencing issues with the plugin, please <a href=\"%2$s\" target=\"_blank\"  class=\"button-border button-border__green\">contact us</a> and we will help you as soon as humanly possible!</p>"
+msgstr "<h3>Χρειαζόμαστε την αγάπη σας!</h3><p>Εάν απολαμβάνετε το πρόσθετό μας, παρακαλούμε αφήστε <a href=\"%1$s\" target=\"_blank\" class=\"button-border button-border__green\">μια κριτική για το WP Google Maps</a>. Θα σήμαινε πολλά για εμάς! Εάν αντιμετωπίζετε κάποιο πρόβλημα με το πρόσθετο, παρακαλούμε <a href=\"%2$s\" target=\"_blank\"  class=\"button-border button-border__green\">επικοινωνήστε μαζί μας</a> και θα σας βοηθήσω το συντομότερο δυνατό!</p>"
+
+#: html/map-edit-page/map-edit-page.html.php:1563
+msgid "Basic table"
+msgstr "Βασικός πίνακας"
+
+#: html/map-edit-page/map-edit-page.html.php:1606
+msgid "Carousel"
+msgstr "Carousel"
+
+#: html/map-edit-page/map-edit-page.html.php:45 html/settings-page.html.php:19
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: html/map-edit-page/map-edit-page.html.php:59
+msgid "Directions"
+msgstr "Οδηγίες"
+
+#: html/map-edit-page/map-edit-page.html.php:143
+msgid "Short code"
+msgstr "Συντομογραφία"
+
+#: html/map-edit-page/map-edit-page.html.php:153
+msgid "copy this into your post or page to display the map"
+msgstr "αντιγράψτε αυτό στη δημοσίευση ή στη σελίδα σας για να προβάλετε το χάρτη"
+
+#: html/map-edit-page/map-edit-page.html.php:166
+msgid "Map Name"
+msgstr "Όνομα Χάρτη"
+
+#: html/map-edit-page/map-edit-page.html.php:176
+#: html/map-edit-page/map-edit-page.html.php:1000
+#: html/map-edit-page/map-edit-page.html.php:1190
+#: html/map-edit-page/map-edit-page.html.php:1896
+msgid "Zoom Level"
+msgstr "Επίπεδο Ζουμ"
+
+#: html/map-edit-page/map-edit-page.html.php:202
+msgid "Set to 100% for a responsive map"
+msgstr "Ρυθμίστε 100% για χάρτη αλληλεπίδρασης"
+
+#: html/map-edit-page/map-edit-page.html.php:225
+msgid "We recommend that you leave your height in PX. Depending on your theme, using % for the height may break your map."
+msgstr "Συστήνουμε να αφήσετε το ύψος σε PX. Ανάλογα το θέμα σας, χρησιμοποιόντας το %  για το ύψος μπορεί να χαλάσει το χάρτη σας."
+
+#: html/map-edit-page/map-edit-page.html.php:257
+msgid "Enable Directions?"
+msgstr "Ενεργοποίηση οδηγιών"
+
+#: html/map-edit-page/map-edit-page.html.php:266
+msgid "Directions Box Open by Default?"
+msgstr "Άνοιγμα οδηγιών από μόνο του;"
+
+#: html/map-edit-page/map-edit-page.html.php:271
+msgid "Yes, on the left"
+msgstr "Ναί, στα αριστερά"
+
+#: html/map-edit-page/map-edit-page.html.php:272
+msgid "Yes, on the right"
+msgstr "Ναί, στα δεξιά"
+
+#: html/map-edit-page/map-edit-page.html.php:273
+msgid "Yes, above"
+msgstr "Ναί, από πάνω"
+
+#: html/map-edit-page/map-edit-page.html.php:274
+msgid "Yes, below"
+msgstr "Ναί, από κάτω"
+
+#: html/map-edit-page/map-edit-page.html.php:280
+msgid "Directions Box Width"
+msgstr "Πλάτος κουτιού οδηγιών"
+
+#: html/map-edit-page/map-edit-page.html.php:298
+msgid "Enable Store Locator"
+msgstr "Ενεργοποίηση εντοπισμού καταστήματος"
+
+#: html/map-edit-page/map-edit-page.html.php:496
+msgid "Restrict to country"
+msgstr "Περιορισμός στη Χώρα"
+
+#: html/map-edit-page/map-edit-page.html.php:504
+msgid "Show distance in"
+msgstr "Προβολή απόστασης σε"
+
+#: html/map-edit-page/map-edit-page.html.php:514
+msgid "Miles"
+msgstr "Μίλια"
+
+#: html/map-edit-page/map-edit-page.html.php:515
+msgid "Kilometers"
+msgstr "Χιλιόμετρα"
+
+#: html/map-edit-page/map-edit-page.html.php:814
+msgid "View"
+msgstr "Προβολή"
+
+#: html/map-edit-page/map-edit-page.html.php:818
+msgid "Store Locator Documentation"
+msgstr "Τεκμηρίωση Εντοπισμού Καταστήματος"
+
+#: html/map-edit-page/map-edit-page.html.php:835
+msgid "Default Marker Image"
+msgstr "Προεπιλεγμένη εικόνα σημείου"
+
+#: html/map-edit-page/map-edit-page.html.php:850
+msgid "Map type"
+msgstr "Τύπος Χάρτη"
+
+#: html/map-edit-page/map-edit-page.html.php:883
+msgid "Map Alignment"
+msgstr "Ευθυγράμμιση χάρτη"
+
+#: html/map-edit-page/map-edit-page.html.php:892
+msgid "Left"
+msgstr "Αριστερά"
+
+#: html/map-edit-page/map-edit-page.html.php:897
+#: includes/legacy/functions.circle.php:166
+msgid "Center"
+msgstr "Κέντρο"
+
+#: html/map-edit-page/map-edit-page.html.php:902
+msgid "Right"
+msgstr "Δεξιά"
+
+#: html/map-edit-page/map-edit-page.html.php:637
+#: html/map-edit-page/map-edit-page.html.php:907
+#: html/map-edit-page/marker-panel.html.php:139 html/settings-page.html.php:274
+msgid "None"
+msgstr "Κανένα"
+
+#: html/map-edit-page/map-edit-page.html.php:916
+msgid "Show User's Location?"
+msgstr "Εμφάνιση θέσης χρήστη;"
+
+#: html/map-edit-page/map-edit-page.html.php:1058
+msgid "Maximum Zoom In Level"
+msgstr "Μέγιστο επίπεδο ζουμ"
+
+#: html/map-edit-page/map-edit-page.html.php:1333
+msgid "KML/GeoRSS URL"
+msgstr "KML/GeoRSS URL"
+
+#: html/map-edit-page/map-edit-page.html.php:1344
+msgid "The KML/GeoRSS layer will over-ride most of your map settings"
+msgstr "Το KML/GeoRSS layer θα προσπεράσει όλες τις ρυθμίσεις που έχετε κάνει στο χάρτη"
+
+#: html/map-edit-page/map-edit-page.html.php:1667
+msgid "Order markers by"
+msgstr "Ταξινόμιση σημείων κατά"
+
+#: html/map-edit-page/map-edit-page.html.php:1684
+#: includes/compat/class.pro-below-8.1-compatibility.php:1508
+#: includes/compat/class.pro-below-8.1-compatibility.php:1527
+#: includes/tables/class.admin-marker-datatable.php:38
+#: includes/tables/class.marker-datatable.php:22 legacy-core.php:1130
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: html/map-edit-page/map-edit-page.html.php:1689
+#: html/map-edit-page/marker-panel.html.php:97
+#: html/map-edit-page/polygon-panel.html.php:72
+#: html/map-edit-page/polyline-panel.html.php:63
+#: includes/compat/class.pro-below-8.1-compatibility.php:186
+#: includes/compat/class.pro-below-8.1-compatibility.php:1509
+#: includes/compat/class.pro-below-8.1-compatibility.php:1528
+#: includes/tables/class.admin-marker-datatable.php:39
+#: includes/tables/class.marker-datatable.php:23
+#: includes/tables/class.polygon-datatable.php:22
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: html/map-edit-page/map-edit-page.html.php:1717
+msgid "Ascending"
+msgstr "Αύξουσα"
+
+#: html/map-edit-page/map-edit-page.html.php:1722
+msgid "Descending"
+msgstr "Φθίνουσα"
+
+#: html/map-edit-page/map-edit-page.html.php:1731
+msgid "Move list inside map"
+msgstr "Μετακίνηση λίστας μέσα στο χάρτη"
+
+#: html/map-edit-page/map-edit-page.html.php:1748
+msgid "Placement: "
+msgstr "Τοποθέτηση:"
+
+#: html/map-edit-page/map-edit-page.html.php:1759
+msgid "Top Center"
+msgstr "Επάνω κεντρικά"
+
+#: html/map-edit-page/map-edit-page.html.php:1754
+msgid "Top Left"
+msgstr "Επάνω αριστερά"
+
+#: html/map-edit-page/map-edit-page.html.php:1764
+msgid "Top Right"
+msgstr "Επάνω δεξιά"
+
+#: html/map-edit-page/map-edit-page.html.php:1769
+msgid "Left Top"
+msgstr "Αριστερά επάνω"
+
+#: html/map-edit-page/map-edit-page.html.php:1779
+msgid "Right Top"
+msgstr "Δεξιά επάνω"
+
+#: html/map-edit-page/map-edit-page.html.php:1774
+msgid "Left Center"
+msgstr "Αριστερά κεντρικά"
+
+#: html/map-edit-page/map-edit-page.html.php:1784
+msgid "Right Center"
+msgstr "Δεξιά κεντρικά"
+
+#: html/map-edit-page/map-edit-page.html.php:1789
+msgid "Left Bottom"
+msgstr "Αριστερά κάτω"
+
+#: html/map-edit-page/map-edit-page.html.php:1794
+msgid "Right Bottom"
+msgstr "Δεξιά κάτω"
+
+#: html/map-edit-page/map-edit-page.html.php:1799
+msgid "Bottom Center"
+msgstr "Κάτω κετρικά"
+
+#: html/map-edit-page/map-edit-page.html.php:1804
+msgid "Bottom Left"
+msgstr "Κάτω αριστερά"
+
+#: html/map-edit-page/map-edit-page.html.php:1809
+msgid "Bottom Right"
+msgstr "Κάτω δεξιά"
+
+#: html/map-edit-page/map-edit-page.html.php:1852
+msgid "Filter by Category"
+msgstr "Φίλτρο ανά κατηγορία"
+
+#: html/map-edit-page/map-edit-page.html.php:1864
+msgid "Allow users to filter by category?"
+msgstr "Επιτρέψτε στους χρήστες να φιλτράρουν ανά κατηγορία;"
+
+#: html/map-edit-page/map-edit-page.html.php:2267
+msgid "Save Map"
+msgstr "Αποθήκευση χάρτη"
+
+#: html/map-edit-page/map-edit-page.html.php:2272
+msgid "Tip: Use your mouse to change the layout of your map. When you have positioned the map to your desired location, press \"Save Map\" to keep your settings."
+msgstr "Συμβουλή: Χρησιμοποιήστε το ποντίκι σας για να αλλάξετε θέση στο χάρτη. Όταν θα είστε στην επιθυμητή θέση, πιέστε \"Αποθήκευση Χάρτη\" για να κρατήσετε τις ρυθμίσεις."
+
+#: html/map-edit-page/map-edit-page.html.php:2287
+msgid "Markers"
+msgstr "Σημεία"
+
+#: html/map-edit-page/marker-panel.html.php:65
+msgid "Address/GPS"
+msgstr "Διεύθυνση/GPS"
+
+#: html/map-edit-page/marker-panel.html.php:119
+msgid "Link URL"
+msgstr "Λίνκ URL"
+
+#: html/map-edit-page/marker-panel.html.php:124
+msgid "Custom Marker"
+msgstr "Προσαρμοσμένο Σημείο"
+
+#: html/map-edit-page/marker-panel.html.php:134
+msgid "Animation"
+msgstr "Animation"
+
+#: html/map-edit-page/map-edit-page.html.php:642
+#: html/map-edit-page/marker-panel.html.php:144
+msgid "Bounce"
+msgstr "Αναπήδηση"
+
+#: html/map-edit-page/map-edit-page.html.php:647
+#: html/map-edit-page/marker-panel.html.php:149
+msgid "Drop"
+msgstr "Πτώση"
+
+#: html/map-edit-page/marker-panel.html.php:156
+msgid "InfoWindow open by default"
+msgstr "Παράθυρο πληροφοριών ανοιχτό από προεπιλογή"
+
+#: html/map-edit-page/marker-panel.html.php:211 includes/class.strings.php:56
+msgid "Add Marker"
+msgstr "Προσθήκη σημείου"
+
+#: html/map-edit-page/marker-panel.html.php:212 includes/class.strings.php:57
+msgid "Save Marker"
+msgstr "Αποθήκευση σημείου"
+
+#: html/map-edit-page/map-edit-page.html.php:2501
+msgid "Remember to save your map!"
+msgstr "Θυμηθείτε να αποθηκεύσετε το χάρτη σας!"
+
+#: legacy-core.php:1204
+msgid "The map could not load."
+msgstr "Ο χάρτης δε φορτώθηκε."
+
+#: legacy-core.php:1204
+msgid "This is normally caused by a conflict with another plugin or a JavaScript error that is preventing our plugin's Javascript from executing. Please try disable all plugins one by one and see if this problem persists. If it persists, please contact nick@wpgmaps.com for support."
+msgstr "Αυτό προκλήθηκε από κάποια σύγκρουση με κάποιο άλλο plugin ή  JavaScript  που εμποδίζει το δικό μας να εκτελεστεί. Δοκιμάστε να απενεργοποιήσετε ένα ένα το plugin για δείτε ποιο δημιουργει το πρόβλημα. Εάν συνεχίζει επικοινωνήστε με το nick@wpgmaps.com."
+
+#: html/support.html.php:2
+msgid "WP Google Maps Support"
+msgstr "Υποστήριξη WP Google Maps"
+
+#: html/support.html.php:8 includes/class.strings.php:34
+msgid "Documentation"
+msgstr "Οδηγίες"
+
+#: html/support.html.php:11
+msgid "Getting started? Read through some of these articles to help you along your way."
+msgstr "Ξεκινάτε; Διαβάστε μερικά από τα αρθρα για να βοηθηθείτε."
+
+#: html/support.html.php:15
+msgid "Documentation:"
+msgstr "Οδηγίες:"
+
+#: html/support.html.php:22 html/support.html.php:24
+msgid "Creating your first map"
+msgstr "Δημιουργόντας το πρώτο σας χάρτη"
+
+#: html/support.html.php:31 html/support.html.php:33
+msgid "Using your map as a Widget"
+msgstr "Χρησιμοποιώντας το χάρτη σας σαν Widget"
+
+#: html/support.html.php:40 html/support.html.php:42
+msgid "Changing the Google Maps language"
+msgstr "Αλλάζοντας τη γλώσσα του Google Maps"
+
+#: html/support.html.php:49
+msgid "WP Google Maps Documentation"
+msgstr "Οδηγίες WP Google Maps"
+
+#: html/support.html.php:51
+msgid "View all documentation."
+msgstr "Εμφάνιση όλων των οδηγιών."
+
+#: html/support.html.php:63
+msgid "Troubleshooting"
+msgstr "Αντιμετώπιση προβλημάτων"
+
+#: html/support.html.php:73
+msgid "Common issues:"
+msgstr "Συχνά προβλήματα:"
+
+#: html/support.html.php:78
+msgid "My map is not showing on my website"
+msgstr "Ο χάρτης δεν εμφανίζεται στη σελίδα μου"
+
+#: html/support.html.php:81
+msgid "My markers are not showing on my map in the front-end"
+msgstr "Τα σημεία μου δεν εμφανίζονται στο χάρτη"
+
+#: html/support.html.php:84
+msgid "I'm getting jQuery errors showing on my website"
+msgstr "Λαμβάνω jQuery λάθη στη σελίδα μου"
+
+#: html/support.html.php:92
+msgid "Still need help? Use one of these links below."
+msgstr "Χρειάζεστε κι άλλη βοήθεια; Χρησιμοποιείστε τα λινκ παρακάτω."
+
+#: html/support.html.php:94
+msgid "Support forum"
+msgstr "Φόρουμ υποστήριξης"
+
+#: html/support.html.php:95
+msgid "Contact us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1347
+#: includes/tables/class.admin-map-datatable.php:102
+msgid "Trash"
+msgstr "Κάδος"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1505
+#: includes/tables/class.admin-marker-datatable.php:35 legacy-core.php:1127
+msgid "Icon"
+msgstr "Εικόνα"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1451
+msgid "View this link"
+msgstr "Προβολή του λίνκ"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1479
+msgid "Edit this marker"
+msgstr "Επεξεργασία σημείου"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1482
+msgid "Approve this marker"
+msgstr "Έγκριση σημείου"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1484
+#: includes/tables/class.admin-marker-datatable.php:63
+msgid "Delete this marker"
+msgstr "Διαγραφή σημείου"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1510
+#: includes/tables/class.admin-marker-datatable.php:40
+msgid "Image"
+msgstr "Εικόνα"
+
+#: legacy-core.php:1102
+msgid "My Markers"
+msgstr "Τα σημεία μου"
+
+#: legacy-core.php:1128
+msgid "Linked to"
+msgstr "Συνδεδεμένα μέ"
+
+#: legacy-core.php:1131
+msgid "GPS"
+msgstr "GPS"
+
+#: legacy-core.php:1132
+msgid "Pic"
+msgstr "Εικόνα"
+
+#: html/map-edit-page/map-edit-page.html.php:2582
+#: html/map-edit-page/map-edit-page.html.php:2613
+msgid "Pro Edition"
+msgstr "Έκδοση Pro"
+
+#: html/map-edit-page/map-edit-page.html.php:94
+msgid "Pro Upgrade"
+msgstr "Αναβάθμιση σε Pro"
+
+#: html/map-edit-page/map-edit-page.html.php:672
+msgid "Query String"
+msgstr "Query string"
+
+#: html/map-edit-page/map-edit-page.html.php:2467
+msgid "Add advanced markers"
+msgstr "Προσθήκη προηγμένων σημείων"
+
+#: html/map-edit-page/map-edit-page.html.php:2469
+msgid "with the Pro version"
+msgstr "μαζί με τη Pro έκδοση"
+
+#: html/map-edit-page/map-edit-page.html.php:2532
+msgid "Add detailed information to your markers!"
+msgstr "Προσθέστε λεπτομέρεις στα σημεία σας!"
+
+#: html/map-edit-page/map-edit-page.html.php:2533
+#: html/map-edit-page/map-edit-page.html.php:2566
+#: html/map-edit-page/map-edit-page.html.php:2567
+#: html/map-edit-page/map-edit-page.html.php:2598
+#: html/map-edit-page/map-edit-page.html.php:2599
+msgid "Add custom markers to your map!"
+msgstr "Προσθήκε επεξεργασμένω σημείων στο χάρτη!"
+
+#: html/map-edit-page/map-edit-page.html.php:2542
+msgid "Add detailed information to your markers for only"
+msgstr "Προσθέστε αναλυτικές λεπτομέρειες στα σημεία σας μόνο"
+
+#: html/map-edit-page/map-edit-page.html.php:2546
+#: html/map-edit-page/map-edit-page.html.php:2579
+#: html/map-edit-page/map-edit-page.html.php:2610
+#: html/settings-page.html.php:728
+msgid "Click"
+msgstr "Κλίκ"
+
+#: html/map-edit-page/map-edit-page.html.php:2553
+#: html/map-edit-page/map-edit-page.html.php:2585
+#: html/map-edit-page/map-edit-page.html.php:2616
+msgid "here"
+msgstr "εδώ"
+
+#: html/map-edit-page/map-edit-page.html.php:2575
+msgid "Add different marker icons, or your own icons to make your map really stand out!"
+msgstr "Προσθέστε διαφορετικά εικονίδια στα σημεία σας ή τα δικά σας εικονίδια για να κάνετε το χάρτη σας καταπληκτικό!"
+
+#: html/map-edit-page/map-edit-page.html.php:2606
+msgid "Allow your visitors to get directions to your markers!"
+msgstr "Επιτρέψτε στους χρήστες σας να λάβουν οδηγίες για τα σημεία σας!"
+
+#: legacy-core.php:1178
+msgid "Edit Marker Location"
+msgstr "Επεξεργασία τοποθεσίας σημείου"
+
+#: legacy-core.php:1188
+msgid "Marker Latitude"
+msgstr "Γεωγραφικό πλάτος σημείου"
+
+#: legacy-core.php:1192
+msgid "Marker Longitude"
+msgstr "Γεωγραφικό μήκος σημείου"
+
+#: legacy-core.php:1197
+msgid "Save Marker Location"
+msgstr "Αποθήκευση τοποθεσίας σημείου"
+
+#: legacy-core.php:1198
+msgid "Tip: Use your mouse to change the location of the marker. Simply click and drag it to your desired location."
+msgstr "Υπόδειξη: Χρησιμοποιήστε το ποντίκι σας για να αλλάξετε τη τοποθεσία του σημειού. Πιάστε το και μετακινήστε το στο επιθυμητό σημείο."
+
+#: legacy-core.php:1282
+msgid "The plugin directory does not have 'write' permissions. Please enable 'write' permissions (755) for "
+msgstr "Ο φάκελος του plugin δεν έχει δικαιώματα 'εγγραφής'. Παρακαλώ δώστε δικαιώματα 'εγγραφής' (755) για "
+
+#: legacy-core.php:1284
+msgid "in order for this plugin to work! Please see "
+msgstr "για να δουλέψει αυτό το plugin! Παρακαλώ δείτε "
+
+#: legacy-core.php:1288
+msgid "for help on how to do it."
+msgstr "για βοήθεια πως να το κάνετε."
+
+#: legacy-core.php:1570
+msgid "WP Google Maps does not have write permission to the marker location directory. This is required to store marker data. Please CHMOD the folder "
+msgstr "Το WP Google Maps δεν έχει δικαιώματα εγγραφής στο φάκελο σημείων. Αυτό απαιτείτε για να αποθηκεύσετε τα σημεία. Παρακαλώ δώστε δικαιώματα στο φάκελο "
+
+#: legacy-core.php:1570
+msgid " to 755 or 777, or change the directory in the Maps->Settings page. (Current file permissions are "
+msgstr "σε 755 ή 777 ή αλλάξτε φάκελο στο Χάρτες->Ρυθμίσεις. (Οι τρέχοντες ρυθμίσεις είναι "
+
+#: html/support.html.php:68
+msgid "WP Google Maps has a diverse and wide range of features which may, from time to time, run into conflicts with the thousands of themes and other plugins on the market."
+msgstr "To WP Google Maps έχει ένα ποικίλο και ευρύ φάσμα χαρακτηριστικών που μπορεί από καιρό σε καιρό να έχει διενέξεις με άλλα θέματα και πρόσθετα στην αγορά."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpgmaps.com"
+msgstr "https://www.wpgmaps.com"
+
+#: html/map-edit-page/map-edit-page.html.php:52 html/welcome.html.php:52
+msgid "Themes"
+msgstr "Θέματα"
+
+#: html/map-edit-page/map-edit-page.html.php:2368
+#: html/map-edit-page/map-edit-page.html.php:2372
+msgid "Add a new Polygon"
+msgstr "Προσθήκη νέου πολύγωνου"
+
+#: html/map-edit-page/map-edit-page.html.php:2389
+#: html/map-edit-page/map-edit-page.html.php:2393
+msgid "Add a new Polyline"
+msgstr "Προσθήκη νέου πολύγραμμου"
+
+#: html/map-edit-page/map-edit-page.html.php:2294
+msgid "Advanced Markers"
+msgstr "Προηγμένα σημεία"
+
+#: html/map-edit-page/map-edit-page.html.php:308
+#: html/map-edit-page/map-edit-page.html.php:1025
+#: html/map-edit-page/map-edit-page.html.php:1099
+#: html/map-edit-page/map-edit-page.html.php:1118
+#: html/map-edit-page/map-edit-page.html.php:1137
+#: html/map-edit-page/map-edit-page.html.php:1156
+#: html/map-edit-page/map-edit-page.html.php:1177
+#: html/map-edit-page/map-edit-page.html.php:1883
+#: html/map-edit-page/marker-panel.html.php:165
+#: html/map-edit-page/marker-panel.html.php:180 includes/class.strings.php:81
+#: includes/compat/class.pro-below-8.1-compatibility.php:1208
+#: legacy-core.php:932
+msgid "Yes"
+msgstr "Ναί"
+
+#: html/map-edit-page/map-edit-page.html.php:260
+#: html/map-edit-page/map-edit-page.html.php:270
+#: html/map-edit-page/map-edit-page.html.php:309
+#: html/map-edit-page/map-edit-page.html.php:1026
+#: html/map-edit-page/map-edit-page.html.php:1100
+#: html/map-edit-page/map-edit-page.html.php:1119
+#: html/map-edit-page/map-edit-page.html.php:1138
+#: html/map-edit-page/map-edit-page.html.php:1157
+#: html/map-edit-page/map-edit-page.html.php:1178
+#: html/map-edit-page/map-edit-page.html.php:1884
+#: html/map-edit-page/marker-panel.html.php:160
+#: html/map-edit-page/marker-panel.html.php:185 includes/class.strings.php:82
+#: includes/compat/class.pro-below-8.1-compatibility.php:1208
+#: legacy-core.php:932
+msgid "No"
+msgstr "Όχι"
+
+#: includes/class.store-locator.php:85
+msgid "ZIP / Address:"
+msgstr "Τ.Κ. / Διεύθυνση:"
+
+#: html/map-edit-page/map-edit-page.html.php:73 html/settings-page.html.php:39
+msgid "Advanced Settings"
+msgstr "Προηγμένες Ρυθμίσεις"
+
+#: html/map-edit-page/map-edit-page.html.php:188
+#: includes/compat/class.pro-below-8.1-compatibility.php:1332
+#: includes/tables/class.admin-map-datatable.php:35
+msgid "Width"
+msgstr "Πλάτος"
+
+#: html/map-edit-page/map-edit-page.html.php:211
+#: includes/compat/class.pro-below-8.1-compatibility.php:1333
+#: includes/tables/class.admin-map-datatable.php:36
+msgid "Height"
+msgstr "Ύψος"
+
+#: html/map-edit-page/map-edit-page.html.php:857
+#: includes/compat/class.pro-below-8.1-compatibility.php:1342
+#: includes/tables/class.admin-map-datatable.php:81
+msgid "Roadmap"
+msgstr "Οδικός Χάρτης"
+
+#: html/map-edit-page/map-edit-page.html.php:862
+#: includes/compat/class.pro-below-8.1-compatibility.php:1343
+#: includes/tables/class.admin-map-datatable.php:78
+msgid "Satellite"
+msgstr "Δορυφόρος"
+
+#: html/map-edit-page/map-edit-page.html.php:867
+#: includes/compat/class.pro-below-8.1-compatibility.php:1344
+#: includes/tables/class.admin-map-datatable.php:79
+msgid "Hybrid"
+msgstr "Υβριδικός"
+
+#: html/map-edit-page/map-edit-page.html.php:872
+#: includes/compat/class.pro-below-8.1-compatibility.php:1345
+#: includes/tables/class.admin-map-datatable.php:80
+msgid "Terrain"
+msgstr "Εδαφικός"
+
+#: base/classes/widget_module.class.php:69
+#: html/map-edit-page/map-edit-page.html.php:1679
+#: html/map-edit-page/marker-panel.html.php:56
+#: html/map-edit-page/marker-panel.html.php:59
+#: html/map-edit-page/polygon-panel.html.php:63
+#: includes/compat/class.pro-below-8.1-compatibility.php:96
+#: includes/compat/class.pro-below-8.1-compatibility.php:183
+#: includes/compat/class.pro-below-8.1-compatibility.php:1331
+#: includes/compat/class.pro-below-8.1-compatibility.php:1506
+#: includes/compat/class.pro-below-8.1-compatibility.php:1525
+#: includes/tables/class.admin-map-datatable.php:34
+#: includes/tables/class.admin-marker-datatable.php:36
+#: includes/tables/class.marker-datatable.php:20 legacy-core.php:1129
+msgid "Title"
+msgstr "Τίτλος"
+
+#: html/map-edit-page/map-edit-page.html.php:1694
+#: html/map-edit-page/marker-panel.html.php:129
+#: includes/compat/class.pro-below-8.1-compatibility.php:1507
+#: includes/compat/class.pro-below-8.1-compatibility.php:1526
+#: includes/tables/class.admin-marker-datatable.php:37
+#: includes/tables/class.marker-datatable.php:21
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: html/map-edit-page/map-edit-page.html.php:1674
+#: includes/compat/class.pro-below-8.1-compatibility.php:490
+#: includes/compat/class.pro-below-8.1-compatibility.php:1006
+#: includes/compat/class.pro-below-8.1-compatibility.php:1330
+#: includes/compat/class.pro-below-8.1-compatibility.php:1504
+#: includes/legacy/functions.circle.php:290
+#: includes/legacy/functions.rectangle.php:259
+#: includes/tables/class.admin-map-datatable.php:33
+#: includes/tables/class.admin-marker-datatable.php:34
+#: includes/tables/class.circle-datatable.php:20
+#: includes/tables/class.heatmap-datatable.php:20
+#: includes/tables/class.polygon-datatable.php:20
+#: includes/tables/class.polyline-datatable.php:20
+#: includes/tables/class.rectangle-datatable.php:20 legacy-core.php:1126
+#: legacy-core.php:1178
+msgid "ID"
+msgstr "ID"
+
+#: includes/class.strings.php:49
+#: includes/compat/class.pro-below-8.1-compatibility.php:1694
+msgid "km away"
+msgstr "χλμ μακρυά"
+
+#: includes/class.strings.php:50
+#: includes/compat/class.pro-below-8.1-compatibility.php:1695
+msgid "miles away"
+msgstr "μίλια μακρυά"
+
+#: html/store-locator.html.php:24
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: base/classes/widget_module.class.php:14
+#: html/map-edit-page/map-edit-page.html.php:4
+#: includes/class.auto-loader.php:222 includes/class.maps-engine-dialog.php:158
+#: includes/class.plugin.php:973 wpGoogleMaps.php:1593 wpGoogleMaps.php:1697
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:43
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:140
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:48
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:144
+#: js/v8/wp-google-maps.combined.js:9334 js/v8/wp-google-maps.combined.js:9431
+msgid "WP Google Maps"
+msgstr "WP Google Maps"
+
+#: html/support.html.php:91 includes/class.admin-ui.php:54
+#: includes/compat/class.pro-below-8.1-compatibility.php:1161
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: includes/class.admin-ui.php:34
+#: includes/compat/class.pro-below-8.1-compatibility.php:1124
+#: includes/compat/class.pro-below-8.1-compatibility.php:1129
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:144
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:150
+#: js/v8/wp-google-maps.combined.js:9435
+msgid "Maps"
+msgstr "Χάρτες"
+
+#: html/settings-page.html.php:24
+msgid "InfoWindows"
+msgstr "Παράθυρο πληροφοριών"
+
+#: html/map-edit-page/map-edit-page.html.php:80 html/settings-page.html.php:29
+msgid "Marker Listing"
+msgstr "Λίστα σημείων"
+
+#: html/theme-panel.html.php:405
+#: includes/compat/class.pro-below-8.1-compatibility.php:1142
+msgid "Advanced"
+msgstr "Προχωρημένα"
+
+#: html/settings-page.html.php:1606
+msgid "Save Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: html/settings-page.html.php:756
+msgid "Marker Listing Settings"
+msgstr "Ρυθμίσεις λίστας σημείων"
+
+#: html/settings-page.html.php:762
+msgid "Changing these settings will alter the way the marker list appears on your website."
+msgstr "Αλλάζοντας αυτές τις ρυθμίσεις θα αλλάξει των τρόπο που εμφανίζονται τα σημεία στο χάρτη."
+
+#: html/settings-page.html.php:784
+msgid "Advanced Marker Listing"
+msgstr "Προηγμένες ρυθμίσεις λίστας σημείων"
+
+#: html/settings-page.html.php:811
+msgid "Hide the Icon column"
+msgstr "Απόκρυψη εικονιδίου στήλης"
+
+#: html/settings-page.html.php:838
+msgid "Hide the Title column"
+msgstr "Απόκρυψη τίτλου στήλης"
+
+#: html/settings-page.html.php:852
+msgid "Hide the Address column"
+msgstr "Απόκρηψη διεύθυνσης στήλης"
+
+#: html/settings-page.html.php:866
+msgid "Hide the Category column"
+msgstr "Απόκρυψη κατηγορίας στήλης"
+
+#: html/settings-page.html.php:880
+msgid "Hide the Description column"
+msgstr "Απόκρυψη περιγραφής στήλης"
+
+#: html/settings-page.html.php:934
+msgid "Carousel Marker Listing"
+msgstr "Carousel Λίστας σημείων"
+
+#: html/settings-page.html.php:941
+msgid "Theme selection"
+msgstr "Επιλογή θέματος"
+
+#: html/settings-page.html.php:949
+msgid "Sky"
+msgstr "Ουρανός"
+
+#: html/settings-page.html.php:954
+msgid "Sun"
+msgstr "Ήλιος"
+
+#: html/settings-page.html.php:959
+msgid "Earth"
+msgstr "Γή"
+
+#: html/settings-page.html.php:964
+msgid "Monotone"
+msgstr "Μονότονο"
+
+#: html/settings-page.html.php:969
+msgid "PinkPurple"
+msgstr "Ροζ-Μωβ"
+
+#: html/settings-page.html.php:973
+msgid "White"
+msgstr "Λευκό"
+
+#: html/settings-page.html.php:978
+msgid "Black"
+msgstr "Μαύρο"
+
+#: html/settings-page.html.php:994
+msgid "Hide the Image"
+msgstr "Απόκρυψη εικόνας"
+
+#: html/settings-page.html.php:998
+msgid "Hide the Title"
+msgstr "Απόκρυψη τίτλου"
+
+#: html/settings-page.html.php:1002
+msgid "Hide the Marker Icon"
+msgstr "Απόκρυψη εικόνας σημείου"
+
+#: html/settings-page.html.php:1006
+msgid "Hide the Address"
+msgstr "Απόκρυψη διέυθυνσης"
+
+#: html/settings-page.html.php:1010
+msgid "Hide the Description"
+msgstr "Απόκρυψη περιγραφής"
+
+#: html/settings-page.html.php:1014
+msgid "Hide the Marker Link"
+msgstr "Απόκρυψη λίνκ σημείου"
+
+#: html/settings-page.html.php:1018
+msgid "Hide the Directions Link"
+msgstr "Απόκρυψη οδηγιών λίνκ"
+
+#: html/settings-page.html.php:1033
+msgid "Resize Images with Timthumb"
+msgstr "Αλλαγή μεγέθους εικόνας με το Timthumb"
+
+#: html/settings-page.html.php:1037
+msgid "Enable lazyload of images"
+msgstr "Ενεργοποίηση lazyload των εικόνων"
+
+#: html/settings-page.html.php:1041
+msgid "Enable autoheight"
+msgstr "Ενεργοποίηση αυτόματης ρύθμισης ύψους εικόνας"
+
+#: html/settings-page.html.php:1045
+msgid "Enable pagination"
+msgstr "Ενεργοποίηση σελιδοποίησης"
+
+#: html/settings-page.html.php:1049
+msgid "Enable navigation"
+msgstr "Ενεργοποίηση πλοήγησης"
+
+#: html/settings-page.html.php:1106
+msgid "Items"
+msgstr "Αντικείμενα"
+
+#: html/settings-page.html.php:1121
+msgid "Autoplay after x milliseconds (1000 = 1 second)"
+msgstr "Αυτόματη αναπαραγωγή μετά από  x milliseconds (1000 = 1 second)"
+
+#: html/settings-page.html.php:1255 html/settings-page.html.php:1275
+msgid "You can use the following"
+msgstr "Μπορείτε να χρησιμοποιείσετε τα παρακάτω"
+
+#: legacy-core.php:1567
+msgid "This folder does not exist. Please create it."
+msgstr "Ο φάκελος δεν υπάρχει. Παρακαλώ δημιουργείστε τον."
+
+#: html/settings-page.html.php:1221
+msgid "We suggest that you change the two fields below ONLY if you are experiencing issues when trying to save the marker XML files."
+msgstr "Σας προτείνουμε να αλλάξετε τα δύο παρακάτω πεδία ΜΟΝΟ εάν αντιμετωπίζετε προβλήματα όταν προσπαθείτε να αποθηκεύσετε τα αρχεία σημείων σε XML."
+
+#: html/settings-page.html.php:1226
+msgid "Pull marker data from"
+msgstr "Τραβήξτε τα δεδομένα σημείων από"
+
+#: html/settings-page.html.php:1251
+msgid "Marker data XML directory"
+msgstr "Κατάλογος σημείων δεδομένων XML"
+
+#: html/settings-page.html.php:1261 html/settings-page.html.php:1281
+msgid "Currently using"
+msgstr "Χρησιμοποιείτε τώρα"
+
+#: html/settings-page.html.php:1271
+msgid "Marker data XML URL"
+msgstr "Διεύθυνση σημείων δεδομένων XML"
+
+#: html/settings-page.html.php:1298
+msgid "Custom CSS"
+msgstr "Επεξεργασμένο CSS"
+
+#: html/map-edit-page/map-edit-page.html.php:103
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:102
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:110
+#: js/v8/wp-google-maps.combined.js:9393
+msgid "Map Settings"
+msgstr "Ρυθμίσεις χάρτη"
+
+#: html/settings-page.html.php:63
+msgid "General Map Settings"
+msgstr "Γενικές ρυθμίσεις χάρτη"
+
+#: html/settings-page.html.php:77
+msgid "Disable StreetView"
+msgstr "Απενεργοποίηση StreetView"
+
+#: html/settings-page.html.php:84
+msgid "Disable Zoom Controls"
+msgstr "Απενεργοποίηση των Zoom Controls"
+
+#: html/settings-page.html.php:91
+msgid "Disable Pan Controls"
+msgstr "Απενεργοποίηση των Pan Controls"
+
+#: html/settings-page.html.php:98
+msgid "Disable Map Type Controls"
+msgstr "Απενεργοποίηση των Map Type Controls"
+
+#: html/settings-page.html.php:112
+msgid "Disable Mouse Wheel Zoom"
+msgstr "Απενεργοποίηση του Mouse Wheel Zoom"
+
+#: html/settings-page.html.php:119
+msgid "Disable Mouse Dragging"
+msgstr "Απενεργοποίηση του Mouse Dragging"
+
+#: html/settings-page.html.php:126
+msgid "Disable Mouse Double Click Zooming"
+msgstr "Απενεργοποίηση του Mouse Double Click Zooming"
+
+#: html/settings-page.html.php:722
+msgid "Open Marker InfoWindows by"
+msgstr "Άνοιγμα του παράθυρου σημείων από"
+
+#: html/settings-page.html.php:249
+msgid "Troubleshooting Options"
+msgstr "Αντιμετώπιση προβλημάτων"
+
+#: html/settings-page.html.php:492
+msgid "Lowest level of access to the map editor"
+msgstr "Χαμηλότερο επίπεδο πρόσβασης στο πρόγραμμα επεξεργασίας του χάρτη"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1947
+msgid "Your settings have been saved."
+msgstr "Οι ρυθμίσεις έχουν αποθηκευτεί."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1985
+msgid "Your marker location has been saved."
+msgstr "Η τοποθεσία του σημείου έχει αποθηκευτεί."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2045
+msgid "Your polygon has been created."
+msgstr "Το πολύφωνο δημιουργήθηκε"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2110
+msgid "Your polygon has been saved."
+msgstr "Το πολύγονο αποθηκεύτηκε."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2160
+msgid "Your polyline has been created."
+msgstr "Το πολύγραμμο αποθηκεύτηκε."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2209
+msgid "Your polyline has been saved."
+msgstr "Το πολύγραμμο αποθηκεύτηκε."
+
+#: html/map-edit-page/circle-panel.html.php:51
+#: html/map-edit-page/heatmap-panel.html.php:34
+#: html/map-edit-page/polygon-panel.html.php:54
+#: html/map-edit-page/polyline-panel.html.php:54
+#: html/map-edit-page/rectangle-panel.html.php:47
+#: includes/compat/class.pro-below-8.1-compatibility.php:93
+#: includes/compat/class.pro-below-8.1-compatibility.php:180
+#: includes/compat/class.pro-below-8.1-compatibility.php:491
+#: includes/compat/class.pro-below-8.1-compatibility.php:627
+#: includes/compat/class.pro-below-8.1-compatibility.php:725
+#: includes/compat/class.pro-below-8.1-compatibility.php:1007
+#: includes/legacy/functions.circle.php:50
+#: includes/legacy/functions.circle.php:158
+#: includes/legacy/functions.circle.php:291
+#: includes/legacy/functions.rectangle.php:50
+#: includes/legacy/functions.rectangle.php:146
+#: includes/legacy/functions.rectangle.php:260
+#: includes/tables/class.circle-datatable.php:21
+#: includes/tables/class.heatmap-datatable.php:21
+#: includes/tables/class.polygon-datatable.php:21
+#: includes/tables/class.polyline-datatable.php:21
+#: includes/tables/class.rectangle-datatable.php:21
+msgid "Name"
+msgstr "Όνομα"
+
+#: html/map-edit-page/map-edit-page.html.php:778
+msgid "Fill color"
+msgstr "Χρώμα γεμίσματος"
+
+#: html/map-edit-page/circle-panel.html.php:80
+#: html/map-edit-page/heatmap-panel.html.php:66
+#: html/map-edit-page/polygon-panel.html.php:122
+#: html/map-edit-page/polyline-panel.html.php:81
+#: html/map-edit-page/rectangle-panel.html.php:66
+#: includes/compat/class.pro-below-8.1-compatibility.php:111
+#: includes/compat/class.pro-below-8.1-compatibility.php:201
+#: includes/compat/class.pro-below-8.1-compatibility.php:643
+#: includes/compat/class.pro-below-8.1-compatibility.php:741
+#: includes/legacy/functions.circle.php:66
+#: includes/legacy/functions.circle.php:189
+#: includes/legacy/functions.rectangle.php:66
+#: includes/legacy/functions.rectangle.php:162
+msgid "Opacity"
+msgstr "Διαφάνεια"
+
+#: html/map-edit-page/polygon-panel.html.php:136
+#: includes/compat/class.pro-below-8.1-compatibility.php:114
+#: includes/compat/class.pro-below-8.1-compatibility.php:204
+msgid "On Hover Line Color"
+msgstr "Χρώμα επιλεγμένης γραμμής"
+
+#: html/map-edit-page/polygon-panel.html.php:145
+#: includes/compat/class.pro-below-8.1-compatibility.php:117
+#: includes/compat/class.pro-below-8.1-compatibility.php:207
+msgid "On Hover Fill Color"
+msgstr "Χρώμα γεμίσματος επιλεγμένου"
+
+#: html/map-edit-page/polygon-panel.html.php:154
+#: includes/compat/class.pro-below-8.1-compatibility.php:120
+#: includes/compat/class.pro-below-8.1-compatibility.php:210
+msgid "On Hover Opacity"
+msgstr "Διαφάνεια επιλεγμένου"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:132
+msgid "Click on the map to insert a vertex."
+msgstr "Πατήστε στο χάρτη για να εισάγετε μια κορυφή"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:133
+msgid "Click on a vertex to remove it."
+msgstr "Επιλέχτε μια κορυφή για να την αφαιρέσετε."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:134
+msgid "Drag a vertex to move it."
+msgstr "Επιλέξτε μια κορυφή για να τη μετακινήσετε."
+
+#: html/map-edit-page/polygon-panel.html.php:179
+#: includes/compat/class.pro-below-8.1-compatibility.php:141
+#: includes/compat/class.pro-below-8.1-compatibility.php:241
+msgid "Save Polygon"
+msgstr "Αποθήκευση πολύγωνου"
+
+#: html/map-edit-page/heatmap-panel.html.php:80
+#: includes/legacy/functions.circle.php:74
+#: includes/legacy/functions.circle.php:197
+msgid "Radius"
+msgstr "Ακτίνα"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1334
+#: includes/tables/class.admin-map-datatable.php:37
+msgid "Type"
+msgstr "Τύπος"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:520
+#: includes/compat/class.pro-below-8.1-compatibility.php:1034
+#: includes/compat/class.pro-below-8.1-compatibility.php:1353
+#: includes/compat/class.pro-below-8.1-compatibility.php:1357
+#: includes/legacy/functions.circle.php:310
+#: includes/legacy/functions.rectangle.php:279
+#: includes/tables/class.admin-map-datatable.php:96
+#: includes/tables/class.admin-map-datatable.php:117
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: html/map-list-page.html.php:50 html/map-list-page.html.php:63
+#: includes/compat/class.pro-below-8.1-compatibility.php:96
+#: includes/compat/class.pro-below-8.1-compatibility.php:183
+#: includes/compat/class.pro-below-8.1-compatibility.php:186
+#: legacy-core.php:1067
+msgid "Pro Version"
+msgstr "Pro έκδοση"
+
+#: html/map-list-page.html.php:56 legacy-core.php:1067
+msgid "with the"
+msgstr "μαζί με"
+
+#: html/map-list-page.html.php:67 legacy-core.php:1067
+msgid "of WP Google Maps for only"
+msgstr "για το WP Google Maps μόνο"
+
+#: legacy-core.php:1093 legacy-core.php:1105
+msgid "Problems with the plugin? See the troubleshooting manual."
+msgstr "Προβλήματα με το Plugin; Δείτε το ενγχειρίδιο επίλυσης προβλημάτων"
+
+#: html/map-edit-page/map-edit-page.html.php:2369
+#: includes/compat/class.pro-below-8.1-compatibility.php:172
+msgid "Edit Polygon"
+msgstr "Επεξεργασία πολύγονου"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:492
+#: includes/compat/class.pro-below-8.1-compatibility.php:1008
+#: includes/compat/class.pro-below-8.1-compatibility.php:1335
+#: includes/compat/class.pro-below-8.1-compatibility.php:1512
+#: includes/legacy/functions.circle.php:292
+#: includes/legacy/functions.rectangle.php:261
+#: includes/tables/class.admin-circle-datatable.php:22
+#: includes/tables/class.admin-heatmap-datatable.php:22
+#: includes/tables/class.admin-map-datatable.php:38
+#: includes/tables/class.admin-marker-datatable.php:43
+#: includes/tables/class.admin-polygon-datatable.php:22
+#: includes/tables/class.admin-polyline-datatable.php:22
+#: includes/tables/class.admin-rectangle-datatable.php:22
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:521
+msgid "Delete this polygon"
+msgstr "Διαγραφή πολύγονου"
+
+#: html/map-edit-page/polyline-panel.html.php:115
+#: includes/compat/class.pro-below-8.1-compatibility.php:677
+#: includes/compat/class.pro-below-8.1-compatibility.php:787
+msgid "Save Polyline"
+msgstr "Αποθήκευση πολύγραμμου"
+
+#: html/map-edit-page/map-edit-page.html.php:2390
+#: includes/compat/class.pro-below-8.1-compatibility.php:717
+msgid "Edit Polyline"
+msgstr "Επεξεργασία πολύγραμμου"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1035
+msgid "Delete this polyline"
+msgstr "Διαγραφή πολύγραμμου"
+
+#: base/classes/WPGM_templates.php:122
+msgid "Support Forum"
+msgstr "Φόρουμ Υποστήριξης"
+
+#: base/classes/WPGM_templates.php:122 html/welcome.html.php:117
+msgid "for quick and friendly help. We'll answer your request within 24hours."
+msgstr "για γρήγορη και φιλική βοήθεια. Θα απαντήσουμε στα ερωτήματα σας μεσα σε 24 ώρες."
+
+#: base/classes/WPGM_templates.php:125 html/welcome.html.php:122
+msgid "Feedback"
+msgstr "Ανατροφοδότηση"
+
+#: base/classes/WPGM_templates.php:126 html/welcome.html.php:123
+msgid "We need you to help us make this plugin better."
+msgstr "Θέλουμε να μας βοηθήσετε να κάνουμε αυτό το plugin καλύτερο."
+
+#: base/classes/WPGM_templates.php:126 html/welcome.html.php:123
+msgid "Send us your feedback"
+msgstr "Στείλτε μας τις εντυπώσεις σας"
+
+#: base/classes/WPGM_templates.php:126 html/welcome.html.php:123
+msgid "and we'll act on it as soon as humanly possible."
+msgstr "και θα δράσουμε όσο πιο γρήγορα γίνεται."
+
+#: base/classes/WPGM_templates.php:130 html/credits.html.php:160
+#: html/welcome.html.php:128
+msgid "OK! Let's start"
+msgstr "Εντάξει! Ας ξεκινήσουμε"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:96
+#: includes/compat/class.pro-below-8.1-compatibility.php:114
+#: includes/compat/class.pro-below-8.1-compatibility.php:117
+#: includes/compat/class.pro-below-8.1-compatibility.php:120
+#: includes/compat/class.pro-below-8.1-compatibility.php:183
+#: includes/compat/class.pro-below-8.1-compatibility.php:186
+#: includes/compat/class.pro-below-8.1-compatibility.php:204
+#: includes/compat/class.pro-below-8.1-compatibility.php:207
+#: includes/compat/class.pro-below-8.1-compatibility.php:210
+msgid "Pro version only"
+msgstr "Pro έκδοση μόνο"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:96
+#: includes/compat/class.pro-below-8.1-compatibility.php:183
+#: includes/compat/class.pro-below-8.1-compatibility.php:186
+msgid "Get the Pro add-on"
+msgstr "Λάβεται τη Pro έκδοση"
+
+#: html/map-edit-page/polyline-panel.html.php:95
+#: includes/compat/class.pro-below-8.1-compatibility.php:651
+#: includes/compat/class.pro-below-8.1-compatibility.php:749
+msgid "Line Thickness"
+msgstr "Πάχος γραμμής"
+
+#: includes/class.database.php:227
+msgid "My first map"
+msgstr "Ο πρώτος μου χάρτης"
+
+#: legacy-core.php:218
+msgid "<strong>WP Google Maps cannot find the directory it uses to save marker data to. Please confirm that <em>"
+msgstr "<strong>Το WP Google Maps δε μπορεί να βρεί το φάκελο που χρησιμοποεί για να αποθηκεύει τα σημεία. Παρακαλώ επιβεβαιώστε <em>"
+
+#: legacy-core.php:218
+msgid "</em>exists. Please also ensure that you assign file permissions of 755 (or 777) to this directory."
+msgstr "</em>υπάρχει ήδη. Παρακαλώ βεβαιοθήτε ότι έχετε δώσει δικαιώματα αρχείου 755 (ή 777) στο φάκελο."
+
+#: legacy-core.php:1286
+msgid "this page"
+msgstr "αυτή η σελίδα"
+
+#: legacy-core.php:688
+msgid "Error: The map ID"
+msgstr "Λάθος: Το ID του χάρτη"
+
+#: legacy-core.php:688
+msgid "does not exist"
+msgstr "δεν υπάρχει"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1998
+#: includes/compat/class.pro-below-8.1-compatibility.php:2063
+msgid "You cannot save a blank polygon"
+msgstr "Δε μπορείτε να αποθηκεύσετε ένα κενό πολύγωνο"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2128
+#: includes/compat/class.pro-below-8.1-compatibility.php:2180
+msgid "You cannot save a blank polyline"
+msgstr "Δε μπορείτε να αποθηκεύσετε μια κενή polyline"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1135
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: includes/class.admin-ui.php:44
+#: includes/compat/class.pro-below-8.1-compatibility.php:1160
+#: legacy-core.php:193
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: html/footer.html.php:4
+#: includes/compat/class.pro-below-8.1-compatibility.php:1185
+#: legacy-core.php:919
+msgid "Experiencing problems with the plugin?"
+msgstr "Αντιμετωπίζετε προβλήματα με το plugin;"
+
+#: html/footer.html.php:12
+#: includes/compat/class.pro-below-8.1-compatibility.php:1185
+#: legacy-core.php:919
+msgid "See the troubleshooting manual."
+msgstr "Δείτε το ενγχειρίδιο επίλυσης προβλημάτων."
+
+#: html/footer.html.php:17
+#: includes/compat/class.pro-below-8.1-compatibility.php:1185
+msgid "Or ask a question on our "
+msgstr "Ή κάντε μια ερώτηση στο"
+
+#: html/footer.html.php:22
+#: includes/compat/class.pro-below-8.1-compatibility.php:1185
+msgid "Support forum."
+msgstr "Φόρουμ υποστήριξης."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1208
+msgid "Delete your map"
+msgstr "Διαγραφή χάρτη"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1208
+msgid "Are you sure you want to delete the map"
+msgstr "Είστε σίγουροι για τη διαγραφή του χάρτη"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1227
+msgid "There was a problem duplicating the map."
+msgstr "Υπήρξε πρόβλημα κατά την κλωνοποίηση του χάρτη."
+
+#: legacy-core.php:928
+msgid "There was a problem deleting the marker."
+msgstr "Υπήρξε πρόβλημα κατά τη διαγραφή του σημείου."
+
+#: legacy-core.php:932
+msgid "Delete Marker"
+msgstr "Διαγραφή σημείου"
+
+#: legacy-core.php:932
+msgid "Are you sure you want to delete this marker:"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το σημείο:"
+
+#: html/settings-page.html.php:1215
+msgid "Marker Data Location"
+msgstr "Αποθήκευση δεδομένων σημείων"
+
+#: html/map-list-page.html.php:26 legacy-core.php:1041 legacy-core.php:1066
+msgid "My Maps"
+msgstr "Οι χάρτες μου"
+
+#: html/map-list-page.html.php:10 legacy-core.php:1041 legacy-core.php:1102
+msgid "Add New"
+msgstr "Προσθήκη νέου"
+
+#: html/map-list-page.html.php:52 legacy-core.php:1067
+msgid "Create unlimited maps"
+msgstr "Δημιουργεία απεριόριστων χαρτών"
+
+#: html/map-edit-page/polygon-panel.html.php:178
+msgid "Add Polygon"
+msgstr "Προσθήκη πολύγωνου"
+
+#: html/map-edit-page/polyline-panel.html.php:114
+msgid "Add Polyline"
+msgstr "Προσθήκη πολύγραμμου"
+
+#: html/map-edit-page/polygon-panel.html.php:81
+#: includes/compat/class.pro-below-8.1-compatibility.php:99
+#: includes/compat/class.pro-below-8.1-compatibility.php:189
+#: includes/compat/class.pro-below-8.1-compatibility.php:1511
+#: includes/tables/class.admin-marker-datatable.php:41
+#: includes/tables/class.polygon-datatable.php:23 legacy-core.php:1133
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+#: base/classes/WPGM_templates.php:48
+#: html/map-edit-page/map-edit-page.html.php:66 html/settings-page.html.php:34
+#: html/welcome.html.php:43
+msgid "Store Locator"
+msgstr "Εντοπισμός καταστήματος"
+
+#: base/classes/WPGM_templates.php:53
+#: html/map-edit-page/map-edit-page.html.php:2301 html/welcome.html.php:59
+msgid "Polygons"
+msgstr "Πολύγονα"
+
+#: base/classes/WPGM_templates.php:58
+#: html/map-edit-page/map-edit-page.html.php:2307 html/welcome.html.php:59
+msgid "Polylines"
+msgstr "Πολυγραμμές"
+
+#: base/classes/WPGM_templates.php:40
+msgid "Welcome to"
+msgstr "Καλώς ήλθατε"
+
+#: base/classes/WPGM_templates.php:42
+msgid "Amazing maps. Simple interface. Powerful functionality. World Class Support."
+msgstr "Καταπληκτικοί χάρτες. Απλό μενού. Μεγάλες Δυνατότητες. Παγκόσμια υποστήριξη."
+
+#: base/classes/WPGM_templates.php:44
+msgid "What's new?"
+msgstr "Τι νέο υπάρχει;"
+
+#: base/classes/WPGM_templates.php:49 html/welcome.html.php:44
+msgid "Let users search for products, branches and stores near them"
+msgstr "Αφήστε τους χρήστες να ψαχνουν για προϊόντα και καταστήματα που βρίσκονται δίπλα τους"
+
+#: base/classes/WPGM_templates.php:54
+msgid "Create service areas or coverage maps with polygons"
+msgstr "Δημιουργήστε περιοχές εξυπηρέτησης με πολύγονα"
+
+#: base/classes/WPGM_templates.php:59
+msgid "Create custom routes or outlines using polylines"
+msgstr "Δημιουργήστε προσαρμοσμένα δρομολόγια με πολύγραμμα"
+
+#: base/classes/WPGM_templates.php:74 html/welcome.html.php:74
+msgid "How did you find out about us?"
+msgstr "Πως μάθατε για εμάς;"
+
+#: base/classes/WPGM_templates.php:81 html/welcome.html.php:81
+msgid "WordPress.org plugin repository"
+msgstr "WordPress.org plugin repository"
+
+#: base/classes/WPGM_templates.php:82 html/welcome.html.php:82
+msgid "What search term did you use?"
+msgstr "Τι όρο αναζήτησης χρησιμοποιείσατε;"
+
+#: base/classes/WPGM_templates.php:86 html/welcome.html.php:86
+msgid "Google or other search engine"
+msgstr "Το Google ή άλλη μηχανή"
+
+#: base/classes/WPGM_templates.php:90 html/welcome.html.php:90
+msgid "Friend recommendation"
+msgstr "Σύσταση από φίλο"
+
+#: base/classes/WPGM_templates.php:94 html/welcome.html.php:94
+#: lib/codecabin/deactivate-feedback-form.php:61
+msgid "Other"
+msgstr "Άλλο"
+
+#: base/classes/WPGM_templates.php:95 html/welcome.html.php:95
+msgid "Please explain"
+msgstr "Παρακαλώ εξηγείστε"
+
+#: base/classes/WPGM_templates.php:117 html/welcome.html.php:110
+msgid "New to WP Google Maps?"
+msgstr "Νέος στο WP Google Maps;"
+
+#: base/classes/WPGM_templates.php:118 html/welcome.html.php:111
+msgid "You may want to"
+msgstr "Μπορεί να θέλεις να"
+
+#: base/classes/WPGM_templates.php:118 html/welcome.html.php:111
+msgid "review our documentation"
+msgstr "διαβάσεις τις οδηγίες"
+
+#: base/classes/WPGM_templates.php:118 html/welcome.html.php:111
+msgid "before you get started. If you're a tech-savvy individual, you may skip this step."
+msgstr "πριν ξεκινήσεις. Εαν είσαι μανιακός της τεχνολογίας, μπορεί να θέλεις να προσπεράσεις αυτό το βήμα."
+
+#: base/classes/WPGM_templates.php:121 html/welcome.html.php:116
+msgid "Help me!"
+msgstr "Βοήθησε με!"
+
+#: base/classes/WPGM_templates.php:122 html/welcome.html.php:117
+msgid "Visit our"
+msgstr "Επισκευθείτε μας"

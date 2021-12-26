@@ -1,0 +1,1359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-04-03 18:17+0600\n"
+"PO-Revision-Date: 2021-04-03 18:17+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .\n"
+
+#: includes/Admin.php:42
+#: includes/Admin/sp_location_weather_widget_content.php:109
+msgid "Title"
+msgstr ""
+
+#: includes/Admin.php:43
+msgid "Shortcode"
+msgstr ""
+
+#: includes/Admin.php:44 includes/Admin/Generator_Config/DisplaySetup.php:55
+msgid "Date"
+msgstr ""
+
+#: includes/Admin.php:98
+msgid "The shortcode has been published."
+msgstr ""
+
+#: includes/Admin.php:99
+msgid "Weather updated."
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:11
+#: includes/Admin/Generator_Config/DisplaySetup.php:18
+msgid "Display Options"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:23
+msgid "Weather Title"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:25
+#: includes/Admin/Generator_Config/DisplaySetup.php:57
+#: includes/Admin/Generator_Config/DisplaySetup.php:99
+#: includes/Admin/Generator_Config/DisplaySetup.php:108
+#: includes/Admin/Generator_Config/DisplaySetup.php:117
+#: includes/Admin/Generator_Config/DisplaySetup.php:129
+#: includes/Admin/Generator_Config/DisplaySetup.php:139
+#: includes/Admin/Generator_Config/DisplaySetup.php:149
+#: includes/Admin/Generator_Config/DisplaySetup.php:158
+#: includes/Admin/Generator_Config/DisplaySetup.php:172
+#: includes/Admin/Generator_Config/DisplaySetup.php:182
+#: includes/Admin/Generator_Config/DisplaySetup.php:191
+#: includes/Admin/Generator_Config/DisplaySetup.php:209
+#: includes/Admin/Generator_Config/DisplaySetup.php:219
+#: includes/Admin/Generator_Config/DisplaySetup.php:229
+#: includes/Admin/Generator_Config/DisplaySetup.php:243
+#: includes/Admin/Generator_Config/DisplaySetup.php:252
+#: includes/Admin/Generator_Config/DisplaySetup.php:261
+#: includes/Admin/Generator_Config/DisplaySetup.php:270
+msgid "Show"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:26
+#: includes/Admin/Generator_Config/DisplaySetup.php:58
+#: includes/Admin/Generator_Config/DisplaySetup.php:100
+#: includes/Admin/Generator_Config/DisplaySetup.php:109
+#: includes/Admin/Generator_Config/DisplaySetup.php:118
+#: includes/Admin/Generator_Config/DisplaySetup.php:130
+#: includes/Admin/Generator_Config/DisplaySetup.php:140
+#: includes/Admin/Generator_Config/DisplaySetup.php:150
+#: includes/Admin/Generator_Config/DisplaySetup.php:159
+#: includes/Admin/Generator_Config/DisplaySetup.php:173
+#: includes/Admin/Generator_Config/DisplaySetup.php:183
+#: includes/Admin/Generator_Config/DisplaySetup.php:192
+#: includes/Admin/Generator_Config/DisplaySetup.php:210
+#: includes/Admin/Generator_Config/DisplaySetup.php:220
+#: includes/Admin/Generator_Config/DisplaySetup.php:230
+#: includes/Admin/Generator_Config/DisplaySetup.php:244
+#: includes/Admin/Generator_Config/DisplaySetup.php:253
+#: includes/Admin/Generator_Config/DisplaySetup.php:262
+#: includes/Admin/Generator_Config/DisplaySetup.php:271
+msgid "Hide"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:32
+msgid "Weather Title Margin"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:65
+msgid "Time Format"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:67
+msgid "12"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:68
+msgid "24"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:83
+msgid ""
+"To unlock the forecasting weather settings, <a href=\"https://shapedplugin."
+"com/plugin/location-weather-pro/\" target=\"_blank\"><b>Upgrade To Pro!</b></"
+"a>"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:85
+msgid "Up to 16 days (Pro) "
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:92
+msgid "TEMPERATURE"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:97
+msgid "Weather Condition Icon"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:106
+msgid "Temperature"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:115
+msgid "Display Temperature Scale"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:127
+msgid "Highest Temperature"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:137
+msgid " Lowest Temperature"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:147
+msgid "Real Feel"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:156
+msgid "Weather Description"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:165
+msgid "WEATHER UNITS"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:170
+#: includes/Frontend/Shortcode.php:353
+msgid "Pressure"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:180
+msgid "Humidity"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:189
+#: includes/Frontend/Shortcode.php:352
+msgid "Wind"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:199
+msgid "Weather Icon Color"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:207
+msgid "Precipitation"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:217
+msgid "Wind Gusts"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:227
+msgid "UV Index"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:236
+msgid "MISCELLANEOUS"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:241
+#: includes/Frontend/Shortcode.php:354
+msgid "Visibility"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:250
+#: includes/Frontend/Shortcode.php:355
+msgid "Sunrise"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:259
+#: includes/Frontend/Shortcode.php:356
+msgid "Sunset"
+msgstr ""
+
+#: includes/Admin/Generator_Config/DisplaySetup.php:268
+msgid "Weather Attribution"
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:12
+#: includes/Admin/Generator_Config/StyleSetup.php:20
+msgid "Style Options"
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:26
+msgid ""
+"To unlock the gradient, image, and video background settings, <a href="
+"\"https://shapedplugin.com/plugin/location-weather-pro/\" target=\"_blank"
+"\"><b>Upgrade To Pro!</b></a>"
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:27
+msgid " Background Type "
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:29
+#: includes/Admin/Generator_Config/StyleSetup.php:39
+msgid "Solid Color"
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:30
+msgid "Gradient Color (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:31
+msgid "Image based on Weather (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:32
+msgid "Video (HTML5 & YouTube) (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:46
+msgid "Text Color"
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:52
+msgid "Border"
+msgstr ""
+
+#: includes/Admin/Generator_Config/StyleSetup.php:63
+msgid "Radius"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:16
+msgid "Location Weather Generation Options"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:29
+#: includes/Admin/Generator_Config/WeatherSetup.php:37
+msgid "Weather Settings"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:43
+msgid "Display Weather For Location"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:44
+msgid ""
+"To unlock the City ID, ZIP, and Coordinates, <a href=\"https://shapedplugin."
+"com/plugin/location-weather-pro/\" target=\"_blank\"><b>Upgrade To Pro!</b></"
+"a>"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:46
+#: includes/Admin/sp_location_weather_widget_content.php:116
+msgid "City"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:47
+msgid "City ID"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:48
+msgid "ZIP"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:49
+msgid "Coordinates"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:57
+msgid "City Name"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:58
+msgid "London, GB"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:59
+msgid "Write your city name."
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:66
+msgid "Detect Visitors Location (Auto)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:67
+#: includes/Admin/framework/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:68
+#: includes/Admin/framework/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:75
+msgid "Override Location Name"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:76
+msgid "Override location name."
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:82
+msgid "Temperature Unit"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:84
+msgid "°C "
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:85
+msgid "°F "
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:86
+#: includes/Admin/framework/fields/background/background.php:215
+msgid "Auto"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:94
+msgid "Pressure Unit "
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:96
+msgid "Millibars (mb)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:97
+msgid "kilopascal (kPa) (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:98
+msgid "Inches of Mercury (inHg) (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:99
+msgid "Pounds per Square Inch (psi) (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:100
+msgid "Millimeters of Mercury (mmHg / Torr) (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:101
+msgid "Kilogram per Square centimeter (kg/cm²) (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:110
+msgid " Wind Speed Unit "
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:112
+msgid "Miles per hour (mph)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:113
+msgid "Kilometer per hour (km/h)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:114
+msgid "Meter per second (m/s) (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:115
+msgid "Knot (kn) (Pro)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:123
+msgid "Language"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:125
+msgid "English"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:126
+msgid " Afrikaans"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:127
+msgid "Albanian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:128
+msgid "Arabic"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:129
+msgid "Azerbaijani"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:130
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:131
+msgid "Catalan"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:132
+msgid "Czech"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:133
+msgid "Danish"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:134
+msgid "German"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:135
+msgid "Greek"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:136
+msgid "Basque"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:137
+msgid "Persian (Farsi)"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:138
+msgid "Finnish"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:139
+msgid "French"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:140
+msgid "Galician"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:141
+msgid "Hebrew"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:142
+msgid "Hindi"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:143
+msgid "Croatian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:144
+msgid "Hungarian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:145
+msgid "Indonesian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:146
+msgid "Italian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:147
+msgid "Japanese"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:148
+msgid "Korean"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:149
+msgid "Latvian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:150
+msgid "Lithuanian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:151
+msgid "Macedonian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:152
+msgid "Norwegian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:153
+msgid "Dutch"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:154
+msgid "Polish"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:155
+msgid "Portuguese"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:156
+msgid "Português Brasil"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:157
+msgid "Romanian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:158
+msgid "Russian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:159
+msgid "Swedish"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:160
+msgid "Slovak"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:161
+msgid "Slovenian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:162
+msgid "Spanish"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:163
+msgid "Serbian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:164
+msgid "Thai"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:165
+msgid "Turkish"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:166
+msgid "Ukrainian"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:167
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:168
+msgid "Chinese Simplified"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:169
+msgid "Chinese Traditional"
+msgstr ""
+
+#: includes/Admin/Generator_Config/WeatherSetup.php:170
+msgid "Zulu"
+msgstr ""
+
+#: includes/Admin/LW_Widget.php:23 includes/Admin/Post_Type.php:36
+#: includes/Admin/Post_Type.php:59
+msgid "Location Weather"
+msgstr ""
+
+#: includes/Admin/LW_Widget.php:25
+msgid "Display Location Weather."
+msgstr ""
+
+#: includes/Admin/LW_Widget.php:71
+msgid "Select Shortcode:"
+msgstr ""
+
+#: includes/Admin/LW_Widget.php:87
+msgid "You did not generate any weather yet."
+msgstr ""
+
+#: includes/Admin/LW_Widget.php:88
+msgid "click here"
+msgstr ""
+
+#: includes/Admin/LW_Widget.php:89
+msgid "to generate a new location weather now."
+msgstr ""
+
+#: includes/Admin/Post_Type.php:57 includes/Admin/Post_Type.php:58
+#: includes/Admin/Post_Type.php:60
+msgid "Manage Weather"
+msgstr ""
+
+#: includes/Admin/Post_Type.php:61
+#: includes/Admin/framework/fields/group/group.php:23 main.php:123
+msgid "Add New"
+msgstr ""
+
+#: includes/Admin/Post_Type.php:62
+msgid "Add New Weather"
+msgstr ""
+
+#: includes/Admin/Post_Type.php:63
+msgid "Edit"
+msgstr ""
+
+#: includes/Admin/Post_Type.php:64
+msgid "Edit Weather"
+msgstr ""
+
+#: includes/Admin/Post_Type.php:65
+msgid "New Weather"
+msgstr ""
+
+#: includes/Admin/Post_Type.php:66
+msgid "View Weather"
+msgstr ""
+
+#: includes/Admin/Post_Type.php:67
+msgid "View Weather Found"
+msgstr ""
+
+#: includes/Admin/Post_Type.php:68
+msgid "No Weather Found in Trash"
+msgstr ""
+
+#: includes/Admin/Post_Type.php:69
+msgid "Parent Weather"
+msgstr ""
+
+#: includes/Admin/Setting_Options/Global.php:12
+#: includes/Admin/Setting_Options/Global.php:19 main.php:122
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin/Setting_Options/Global.php:36
+msgid "OpenWeather API Key"
+msgstr ""
+
+#: includes/Admin/Setting_Options/Global.php:37
+msgid ""
+"Add your OpenWeatherMap API key. <a href=\"https://home.openweathermap.org/"
+"api_keys\" target=\"_blank\">Get API key.</a>"
+msgstr ""
+
+#: includes/Admin/Setting_Options/Global.php:48
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/Admin/Setting_Options/Global.php:54
+msgid "Clean-up Data on Deletion"
+msgstr ""
+
+#: includes/Admin/Setting_Options/Global.php:68
+#: includes/Admin/Setting_Options/Global.php:74
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/Admin/Splw_Help.php:34
+msgid "Location Weather Help"
+msgstr ""
+
+#: includes/Admin/Splw_Help.php:34
+msgid "Help"
+msgstr ""
+
+#: includes/Admin/framework/classes/SPLW.php:417
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/Admin/framework/classes/SPLW.php:418
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: includes/Admin/framework/classes/SPLW.php:419
+msgid "Searching..."
+msgstr ""
+
+#: includes/Admin/framework/classes/SPLW.php:420
+msgid "No results found."
+msgstr ""
+
+#: includes/Admin/framework/classes/SPLW.php:503
+msgid "Oops! Not allowed."
+msgstr ""
+
+#: includes/Admin/framework/classes/SPLW.php:577
+#: includes/Admin/framework/classes/SPLW.php:581
+msgid "Field not found!"
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:224
+msgid "Error while saving the changes."
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:284
+msgid "Settings successfully imported."
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:296
+#: includes/Admin/framework/classes/admin-options.class.php:312
+msgid "Default settings restored."
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:383
+msgid "Settings saved."
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:561
+msgid "You have unsaved changes, save your changes!"
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:563
+msgid "show all settings"
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:565
+#: includes/Admin/framework/fields/icon/icon.php:57
+#: includes/Admin/framework/fields/map/map.php:23
+msgid "Search..."
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:568
+#: includes/Admin/framework/classes/metabox-options.class.php:217
+msgid "Save"
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:568
+msgid "Saving..."
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:569
+msgid "Reset Section"
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:569
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:570
+msgid "Reset All"
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:570
+#: includes/Admin/framework/classes/comment-options.class.php:213
+#: includes/Admin/framework/fields/backup/backup.php:31
+msgid "Reset"
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:570
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+
+#: includes/Admin/framework/classes/admin-options.class.php:668
+#: includes/Admin/framework/classes/comment-options.class.php:196
+#: includes/Admin/framework/classes/metabox-options.class.php:295
+#: includes/Admin/framework/fields/button_set/button_set.php:56
+#: includes/Admin/framework/fields/checkbox/checkbox.php:76
+#: includes/Admin/framework/fields/radio/radio.php:75
+#: includes/Admin/framework/fields/select/select.php:113
+#: includes/Admin/framework/functions/actions.php:41
+msgid "No data available."
+msgstr ""
+
+#: includes/Admin/framework/classes/comment-options.class.php:214
+msgid "update post"
+msgstr ""
+
+#: includes/Admin/framework/classes/comment-options.class.php:214
+msgid "Cancel"
+msgstr ""
+
+#: includes/Admin/framework/classes/metabox-options.class.php:220
+msgid "Publish"
+msgstr ""
+
+#: includes/Admin/framework/classes/shortcode-options.class.php:243
+msgid "Add one more"
+msgstr ""
+
+#: includes/Admin/framework/classes/shortcode-options.class.php:280
+msgid "Error: Nonce verification has failed. Please try again."
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:35
+#: includes/Admin/framework/fields/media/media.php:57
+msgid "Not selected"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:66
+#: includes/Admin/framework/fields/date/date.php:31
+msgid "From"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:84
+#: includes/Admin/framework/fields/date/date.php:32
+msgid "To"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:102
+msgid "Direction"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:108
+msgid "Gradient Direction"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:109
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:110
+msgid "&#8658; left to right"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:111
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:112
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:155
+msgid "Background Position"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:156
+msgid "Left Top"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:157
+msgid "Left Center"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:158
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:159
+msgid "Center Top"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:160
+msgid "Center Center"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:161
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:162
+msgid "Right Top"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:163
+msgid "Right Center"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:164
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:178
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:179
+msgid "Repeat"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:180
+msgid "No Repeat"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:181
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:182
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:196
+msgid "Background Attachment"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:197
+msgid "Scroll"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:198
+msgid "Fixed"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:212
+msgid "Background Size"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:213
+msgid "Cover"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:214
+msgid "Contain"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:229
+msgid "Background Origin"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:230
+#: includes/Admin/framework/fields/background/background.php:248
+msgid "Padding Box"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:231
+#: includes/Admin/framework/fields/background/background.php:247
+msgid "Border Box"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:232
+#: includes/Admin/framework/fields/background/background.php:249
+msgid "Content Box"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:246
+msgid "Background Clip"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:263
+msgid "Background Blend Mode"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:264
+#: includes/Admin/framework/fields/link_color/link_color.php:36
+#: includes/Admin/framework/fields/typography/typography.php:175
+msgid "Normal"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:265
+msgid "Multiply"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:266
+msgid "Screen"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:267
+msgid "Overlay"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:268
+msgid "Darken"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:269
+msgid "Lighten"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:270
+msgid "Color Dodge"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:271
+msgid "Saturation"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:272
+msgid "Color"
+msgstr ""
+
+#: includes/Admin/framework/fields/background/background.php:273
+msgid "Luminosity"
+msgstr ""
+
+#: includes/Admin/framework/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: includes/Admin/framework/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:25
+#: includes/Admin/framework/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:26
+#: includes/Admin/framework/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:27
+#: includes/Admin/framework/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:28
+#: includes/Admin/framework/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:29
+#: includes/Admin/framework/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:51
+#: includes/Admin/framework/fields/typography/typography.php:203
+msgid "Solid"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:52
+#: includes/Admin/framework/fields/typography/typography.php:206
+msgid "Dashed"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:53
+#: includes/Admin/framework/fields/typography/typography.php:205
+msgid "Dotted"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:54
+#: includes/Admin/framework/fields/typography/typography.php:204
+msgid "Double"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: includes/Admin/framework/fields/border/border.php:59
+#: includes/Admin/framework/fields/typography/typography.php:188
+#: includes/Admin/framework/fields/typography/typography.php:202
+msgid "None"
+msgstr ""
+
+#: includes/Admin/framework/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: includes/Admin/framework/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: includes/Admin/framework/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: includes/Admin/framework/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/Admin/framework/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: includes/Admin/framework/fields/group/group.php:35
+#: includes/Admin/framework/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr ""
+
+#: includes/Admin/framework/fields/group/group.php:46
+#: includes/Admin/framework/fields/group/group.php:87
+#: includes/Admin/framework/fields/repeater/repeater.php:48
+#: includes/Admin/framework/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: includes/Admin/framework/fields/group/group.php:121
+#: includes/Admin/framework/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr ""
+
+#: includes/Admin/framework/fields/group/group.php:122
+#: includes/Admin/framework/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr ""
+
+#: includes/Admin/framework/fields/icon/icon.php:20
+#: includes/Admin/framework/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr ""
+
+#: includes/Admin/framework/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/Admin/framework/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: includes/Admin/framework/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr ""
+
+#: includes/Admin/framework/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: includes/Admin/framework/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: includes/Admin/framework/fields/map/map.php:24
+msgid "Latitude"
+msgstr ""
+
+#: includes/Admin/framework/fields/map/map.php:25
+msgid "Longitude"
+msgstr ""
+
+#: includes/Admin/framework/fields/media/media.php:23
+#: includes/Admin/framework/fields/upload/upload.php:21
+msgid "Upload"
+msgstr ""
+
+#: includes/Admin/framework/fields/media/media.php:24
+#: includes/Admin/framework/fields/upload/upload.php:22
+msgid "Remove"
+msgstr ""
+
+#: includes/Admin/framework/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: includes/Admin/framework/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:85
+msgid "Font Family"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:86
+msgid "Select a font"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:94
+msgid "Backup Font Family"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:108
+#: includes/Admin/framework/fields/typography/typography.php:121
+#: includes/Admin/framework/fields/typography/typography.php:134
+#: includes/Admin/framework/fields/typography/typography.php:149
+#: includes/Admin/framework/fields/typography/typography.php:165
+#: includes/Admin/framework/fields/typography/typography.php:178
+#: includes/Admin/framework/fields/typography/typography.php:192
+#: includes/Admin/framework/fields/typography/typography.php:210
+msgid "Default"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:119
+msgid "Font Style"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:133
+#: includes/Admin/framework/fields/typography/typography.php:134
+msgid "Load Extra Styles"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:147
+msgid "Subset"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:157
+msgid "Text Align"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:159
+msgid "Inherit"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:160
+msgid "Left"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:161
+msgid "Center"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:162
+msgid "Right"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:163
+msgid "Justify"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:164
+msgid "Initial"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:173
+msgid "Font Variant"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:176
+msgid "Small Caps"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:177
+msgid "All Small Caps"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:186
+msgid "Text Transform"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:189
+msgid "Capitalize"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:190
+msgid "Uppercase"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:191
+msgid "Lowercase"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:200
+msgid "Text Decoration"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:207
+msgid "Wavy"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:208
+msgid "Overline"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:209
+msgid "Line-through"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:222
+msgid "Font Size"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:234
+msgid "Line Height"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:246
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:258
+msgid "Word Spacing"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:273
+msgid "Font Color"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:284
+msgid "Custom Style"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:351
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:357
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: includes/Admin/framework/fields/typography/typography.php:377
+msgid "Google Web Fonts"
+msgstr ""
+
+#: includes/Admin/framework/functions/actions.php:16
+#: includes/Admin/framework/functions/actions.php:68
+#: includes/Admin/framework/functions/actions.php:106
+#: includes/Admin/framework/functions/actions.php:141
+#: includes/Admin/framework/functions/actions.php:170
+msgid "Error: Invalid nonce verification."
+msgstr ""
+
+#: includes/Admin/framework/functions/actions.php:72
+#: includes/Admin/framework/functions/actions.php:110
+msgid "Error: Invalid key."
+msgstr ""
+
+#: includes/Admin/framework/functions/actions.php:114
+msgid "Error: The response is not a valid JSON response."
+msgstr ""
+
+#: includes/Admin/framework/functions/actions.php:174
+msgid "Error: Invalid term ID."
+msgstr ""
+
+#: includes/Admin/framework/functions/actions.php:180
+msgid "Error: You do not have permission to do that."
+msgstr ""
+
+#: includes/Admin/framework/functions/validate.php:14
+#: includes/Admin/framework/functions/validate.php:86
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/Admin/framework/functions/validate.php:32
+#: includes/Admin/framework/functions/validate.php:106
+msgid "Please enter a valid number."
+msgstr ""
+
+#: includes/Admin/framework/functions/validate.php:50
+#: includes/Admin/framework/functions/validate.php:126
+msgid "This field is required."
+msgstr ""
+
+#: includes/Admin/framework/functions/validate.php:68
+#: includes/Admin/framework/functions/validate.php:146
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: includes/Admin/sp_location_weather_widget_content.php:14
+msgid "Old - Location Weather"
+msgstr ""
+
+#: includes/Admin/sp_location_weather_widget_content.php:16
+msgid "Please use new widget! We don't recommend to use this old widget."
+msgstr ""
+
+#: includes/Admin/sp_location_weather_widget_content.php:123
+msgid "Country"
+msgstr ""

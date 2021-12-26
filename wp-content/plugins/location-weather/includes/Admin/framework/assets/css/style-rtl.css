@@ -1,0 +1,577 @@
+/**
+ * 01. Base
+ *     01. 01. Header
+ *     01. 02. Header Buttons
+ *     01. 03. Navigation
+ *     01. 04. Content
+ *     01. 05. Section
+ *     01. 06. Show All Settings
+ *     01. 07. Search Input
+ *     01. 08. Copyright
+ *     01. 09. Metabox
+ * 02. Fields
+ *     02. 01. Field: typography
+ *     02. 02. Field: checkbox, radio
+ *     02. 03. Field: switcher
+ *     02. 04. Field: upload
+ *     02. 05. Field: group
+ *     02. 06. Field: repeater
+ *     02. 07. Field: help
+ *     02. 08. Field: icon
+ *     02. 09. Field: gallery
+ *     02. 10. Field: sorter
+ *     02. 11. Field: tabbed
+ *     02. 12. Field: media
+ *     02. 13. Field: notice
+ *     02. 14. Field: border, spacing, dimensions
+ *     02. 15. Field: background
+ *     02. 16. Field: spinner
+ *     02. 17. Field: slider
+ *     02. 18. Field: button_set
+ *     02. 19. Field: link_color
+ *     02. 20. Field: color_group
+ *     02. 21. Field: palette
+ *     02. 22. Field: accordion
+ *     02. 23. Field: date
+ *     02. 24. Field: map
+ *     02. 25. Field: sortable
+ *     02. 26. Field: number
+ * 03. Taxonomy
+ * 04. Profile
+ * 05. Nav Menu
+ * 06. Modal
+ * 07. Customizer
+ * 08. Responsive
+ * 09. Others
+ *
+ * ---------------------------------------------------------
+ *
+ */
+/**
+ * 01. Base
+ */
+.splwt-lite-options {
+  margin-left: 20px;
+  margin-right: 0;
+}
+
+/**
+ * 01. 01. Header
+ */
+.splwt-lite-header h1 {
+  float: right;
+}
+.splwt-lite-header fieldset {
+  float: left;
+}
+
+/**
+ * 01. 02. Header Buttons
+ */
+.splwt-lite-buttons {
+  float: left;
+  direction: ltr;
+}
+
+.splwt-lite-header-left {
+  float: right;
+}
+
+.splwt-lite-header-right {
+  float: left;
+}
+
+/**
+ * 01. 03. Navigation
+ */
+.splwt-lite-nav {
+  float: right;
+}
+.splwt-lite-nav ul {
+  clear: right;
+}
+.splwt-lite-nav ul li .splwt-lite-active:after {
+  right: auto;
+  left: 0;
+  border-left-color: #fff;
+  border-right-color: transparent;
+}
+.splwt-lite-nav ul li .splwt-lite-arrow:after {
+  content: "\f053";
+  right: auto;
+  left: 10px;
+}
+.splwt-lite-nav ul li.splwt-lite-tab-expanded .splwt-lite-arrow:after {
+  transform: rotate(-90deg);
+}
+.splwt-lite-nav ul ul li a {
+  padding-right: 25px;
+  padding-left: 15px;
+}
+.splwt-lite-nav ul ul:before {
+  left: auto;
+  right: 15px;
+}
+.splwt-lite-nav .splwt-lite-tab-icon {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.splwt-lite-nav-background {
+  left: auto;
+  right: 0;
+}
+
+/**
+ * 01. 04. Content
+ */
+.splwt-lite-content {
+  margin-left: 0;
+  margin-right: 225px;
+}
+
+/**
+ * 01. 05. Section
+ */
+.splwt-lite-sections {
+  float: right;
+}
+
+/**
+ * 01. 06. Show all options
+ */
+.splwt-lite-show-all .splwt-lite-content {
+  margin-right: 0;
+  overflow: hidden;
+}
+
+.splwt-lite-expand-all {
+  float: right;
+  right: auto;
+  left: 40px;
+  margin-right: 0;
+  margin-left: 4px;
+}
+
+/**
+ * 01. 07. Search Input
+ */
+.splwt-lite-search {
+  float: right;
+}
+.splwt-lite-search input {
+  margin: 0 0 0 5px;
+}
+
+/**
+ * 01. 08. Copyright
+ */
+.splwt-lite-copyright {
+  float: right;
+}
+
+/**
+ * 01. 09. Metabox
+ */
+.splwt-lite-metabox {
+  margin: -6px -12px -12px -12px;
+}
+.splwt-lite-metabox .splwt-lite-section-title {
+  padding: 20px;
+}
+
+.splwt-lite-section-title .splwt-lite-section-icon {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+/**
+ * 02. Fields
+ */
+.splwt-lite-field .splwt-lite-title {
+  float: right;
+}
+.splwt-lite-field .splwt-lite-fieldset {
+  float: left;
+}
+
+.splwt-lite-pseudo-field {
+  padding: 0 0 0 5px !important;
+}
+
+/**
+ * 02. 01. Field: typography
+ */
+.splwt-lite-field-typography select {
+  margin: 0;
+  width: 100%;
+}
+.splwt-lite-field-typography .splwt-lite--blocks-inputs .splwt-lite--blocks {
+  flex-direction: row-reverse;
+}
+
+/**
+ * 02. 02. Field: checkbox, radio
+ */
+.splwt-lite-field-checkbox ul ul li,
+.splwt-lite-field-radio ul ul li {
+  margin-left: 0;
+  margin-right: 8px;
+}
+.splwt-lite-field-checkbox ul ul li:first-child,
+.splwt-lite-field-radio ul ul li:first-child {
+  margin-right: 0;
+}
+.splwt-lite-field-checkbox .splwt-lite--inline-list li,
+.splwt-lite-field-radio .splwt-lite--inline-list li {
+  margin-right: 0;
+  margin-left: 15px;
+}
+.splwt-lite-field-checkbox .splwt-lite--text,
+.splwt-lite-field-radio .splwt-lite--text {
+  margin-left: 0;
+  margin-right: 5px;
+}
+
+/**
+ * 02. 03. Field: switcher
+ */
+.splwt-lite-field-switcher .splwt-lite--switcher {
+  float: right;
+}
+.splwt-lite-field-switcher .splwt-lite--label {
+  float: right;
+  margin-left: 0;
+  margin-right: 5px;
+}
+
+/**
+ * 02. 04. Field: upload
+ */
+.splwt-lite-field-upload .splwt-lite--remove,
+.splwt-lite-field-upload .splwt-lite--button {
+  margin-left: 0;
+  margin-right: 5px;
+}
+
+/**
+ * 02. 05. Field: group
+ */
+.splwt-lite-field-group .splwt-lite-cloneable-title {
+  padding: 15px 10px 15px 65px;
+}
+.splwt-lite-field-group .splwt-lite-cloneable-helper {
+  right: auto;
+  left: 10px;
+}
+
+/**
+ * 02. 06. Field: repeater
+ */
+.splwt-lite-field-repeater .splwt-lite-repeater-helper {
+  border-left: 0;
+  border-right: 1px solid #eee;
+}
+
+/**
+ * 02. 07. Field: help
+ */
+.splwt-lite-help {
+  right: auto;
+  left: 5px;
+}
+
+/**
+ * 02. 08. Field: icon
+ */
+.splwt-lite-field-icon .button {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.splwt-lite-field-icon .splwt-lite-icon-preview i {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+/**
+ * 02. 09. Field: gallery
+ */
+.splwt-lite-field-gallery ul li {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.splwt-lite-field-gallery .button {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+/**
+ * 02. 11. Field: tabbed
+ */
+.splwt-lite-field-tabbed .splwt-lite-tabbed-nav .splwt-lite--icon {
+  padding-right: 0;
+  padding-left: 5px;
+}
+.splwt-lite-field-tabbed .splwt-lite-tabbed-nav a {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+/**
+ * 02. 12. Field: media
+ */
+.splwt-lite-field-media .button {
+  margin-left: 0;
+  margin-right: 7px;
+}
+.splwt-lite-field-media .hidden + .button {
+  margin-right: 0;
+}
+
+/**
+ * 02. 13. Field: notice
+ */
+.splwt-lite-notice {
+  border-left: none;
+  border-right-style: solid;
+  border-right-width: 4px;
+}
+
+/**
+ * 02. 14. Field: border, spacing, dimensions
+ */
+.splwt-lite-field-dimensions .splwt-lite--input,
+.splwt-lite-field-dimensions .splwt-lite-fieldset,
+.splwt-lite-field-spacing .splwt-lite--input,
+.splwt-lite-field-spacing .splwt-lite-fieldset,
+.splwt-lite-field-border .splwt-lite--input,
+.splwt-lite-field-border .splwt-lite-fieldset {
+  direction: ltr;
+}
+.splwt-lite-field-dimensions .splwt-lite--inputs,
+.splwt-lite-field-dimensions .splwt-lite--color,
+.splwt-lite-field-spacing .splwt-lite--inputs,
+.splwt-lite-field-spacing .splwt-lite--color,
+.splwt-lite-field-border .splwt-lite--inputs,
+.splwt-lite-field-border .splwt-lite--color {
+  float: right;
+}
+.splwt-lite-field-dimensions .splwt-lite--color,
+.splwt-lite-field-spacing .splwt-lite--color,
+.splwt-lite-field-border .splwt-lite--color {
+  margin-right: 4px;
+  direction: rtl;
+}
+
+/**
+ * 02. 15. Field: background
+ */
+.splwt-lite-field-background .splwt-lite--block {
+  float: right;
+}
+.splwt-lite-field-background .splwt-lite--select,
+.splwt-lite-field-background .splwt-lite--media {
+  padding-right: 0;
+}
+.splwt-lite-field-background .splwt-lite--title {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+/**
+ * 02. 16. Field: spinner
+ */
+.splwt-lite-field-spinner .splwt-lite--spin {
+  float: right;
+  direction: ltr;
+}
+
+/**
+ * 02. 17. Field: slider
+ */
+.splwt-lite-field-slider .splwt-lite-slider-ui {
+  direction: ltr;
+  margin-right: 0;
+  margin-left: 15px;
+}
+.splwt-lite-field-slider .splwt-lite--input {
+  direction: ltr;
+}
+
+/**
+ * 02. 18. Field: button_set
+ */
+.splwt-lite-field-button_set .splwt-lite--button-group {
+  float: right;
+}
+
+/**
+ * 02. 19. Field: link_color
+ */
+.splwt-lite-field-link_color .splwt-lite--left {
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+/**
+ * 02. 20. Field: color_group
+ */
+.splwt-lite-field-color_group .splwt-lite--left {
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+/**
+ * 02. 21. Field: palette
+ */
+.splwt-lite-field-palette .splwt-lite--palette {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+/**
+ * 02. 22. Field: accordion
+ */
+.splwt-lite-field-accordion .splwt-lite--icon {
+  margin-right: 0;
+  margin-left: 2px;
+}
+
+/**
+ * 02. 23. Field: date
+ */
+.splwt-lite-field-date .splwt-lite--to {
+  margin-left: 0;
+  margin-right: 7px;
+}
+
+/**
+ * 02. 24. Field: map
+ */
+.splwt-lite-field-map .splwt-lite--map-input:last-child {
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+/**
+ * 02. 25. Field: sortable
+ */
+.splwt-lite-field-sortable .splwt-lite--sortable-helper {
+  border-left: none;
+  border-right: 1px solid #eee;
+}
+
+/**
+ * 02. 26. Field: number
+ */
+.splwt-lite-field-number .splwt-lite--wrap {
+  float: right;
+}
+
+/**
+ * 03. Taxonomy
+ */
+.splwt-lite-taxonomy-add-fields {
+  margin-right: 0;
+  margin-left: 30px;
+}
+.splwt-lite-taxonomy-add-fields .splwt-lite-field > .splwt-lite-fieldset > .splwt-lite-help {
+  left: -5px;
+  right: auto;
+}
+
+.splwt-lite-taxonomy-edit-fields {
+  margin-right: 0;
+  margin-left: 35px;
+}
+.splwt-lite-taxonomy-edit-fields .splwt-lite-field > .splwt-lite-fieldset > .splwt-lite-help {
+  right: auto;
+  left: -5px;
+}
+
+/**
+ * 04. Profile
+ */
+.splwt-lite-profile-options > h2 > .fa {
+  padding-right: 0;
+  padding-left: 7px;
+}
+.splwt-lite-profile-options > .splwt-lite-field > .splwt-lite-fieldset > .splwt-lite-help {
+  left: -5px;
+  right: auto;
+}
+
+/**
+ * 05. Nav Menu
+ */
+.splwt-lite-nav-menu-options > .splwt-lite-fields {
+  margin-left: 0;
+  margin-right: -10px;
+}
+
+.splwt-lite-nav-menu-title {
+  padding-left: 14px;
+  padding-right: 12px;
+}
+
+.splwt-lite-nav-menu-icon {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+/**
+ * 06. Modal
+ */
+.splwt-lite-modal-content .splwt-lite-field {
+  padding: 15px 15px 15px 30px;
+}
+
+.splwt-lite-modal-title {
+  padding: 0 16px 0 36px;
+}
+
+.splwt-lite-modal-close {
+  right: auto;
+  left: 0;
+}
+
+/**
+ * 07. Customizer
+ */
+.control-section .splwt-lite-field .splwt-lite-fieldset {
+  margin-right: 0;
+}
+
+/**
+ * 08. Responsive
+ */
+@media only screen and (max-width: 1200px) {
+  .splwt-lite-metabox .splwt-lite-field .splwt-lite-fieldset {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 782px) {
+  .splwt-lite .splwt-lite-fieldset,
+  .splwt-lite .splwt-lite-content {
+    margin-right: 0;
+  }
+}
+/**
+ * 09. Others
+ */
+.splwt-lite-field .splwt-lite--transparent-slider {
+  margin-left: 0;
+  margin-right: 2px;
+}
+.splwt-lite-field .splwt-lite--transparent-slider .ui-slider-handle {
+  margin: 0 -11px;
+}
+.splwt-lite-field .splwt-lite--transparent-offset {
+  background-position: center right;
+}
+.splwt-lite-field .splwt-lite--transparent-text {
+  right: auto;
+  left: 10px;
+}

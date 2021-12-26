@@ -1,0 +1,1015 @@
+.ADD-PAYMENT-LATER {
+  width: 88px;
+  height: 15px;
+  /*font-family: Roboto;*/
+  font-size: 13px;
+  font-weight: 500;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.58);
+}
+
+.ADD-PAYMENT {
+  width: 109.3px;
+  height: 15px;
+  /*font-family: Roboto;*/
+  font-size: 13px;
+  font-weight: 500;
+  text-align: center;
+  color: #ffffff;
+}
+
+.professional-action-button {
+  width: 273px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: #3b9af1;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.25);
+  border: none;
+}
+
+.professional-action-button:hover {
+  width: 273px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: rgba(59, 154, 240, 0.82);
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.25);
+  border: none;
+}
+
+.prefessional-action-button-default {
+  width: 170px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: #3b9af1;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.25);
+  border: none;
+}
+
+.prefessional-action-button-default:hover {
+  width: 170px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: rgba(59, 154, 240, 0.82);
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.26);
+  border: none;
+}
+
+.professional-action-button-disabled {
+  width: 273px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: #ebebeb;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.26);
+  border: none;
+}
+
+.ADD-PAYMENT-DISABLED {
+  width: 109.3px;
+  height: 15px;
+  font-size: 13px;
+  font-weight: 500;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.57);
+}
+
+.background-test {
+  width: 54px;
+  height: 32px;
+  border-radius: 3px;
+  /*background-color: #ebebeb;*/
+  background-color: white;
+  /*box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.26);*/
+  border: none;
+  /*background-color: var(--3b9af1);*/
+}
+
+.background-test:hover {
+  width: 54px;
+  height: 32px;
+  border-radius: 3px;
+  /*background-color: #ebebeb;*/
+  background-color: rgba(212, 212, 212, 0.62);
+  /*box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.26);*/
+  border: none;
+}
+
+.Upgrade-to-Lingotek {
+  width: 477.1px;
+  height: 21px;
+  /*font-family: Roboto;*/
+  font-size: 18px;
+  /*text-align: center;*/
+  padding-left: 1%;
+  color: #ffffff;
+}
+
+.header-professional {
+  text-align:left; 
+  padding-left:8px;
+  position:absolute;
+  padding-top: 15px;
+}
+
+.Youve-Selected-Prof {
+  padding-left: 1%;
+  height: 28px;
+  /*font-family: Roboto;*/
+  font-size: 24px;
+  font-weight: bold;
+  color: #000000;
+  color: var(--black);
+  padding-top: 15px;
+}
+
+.By-Selecting-this-op {
+  padding-left:1%;
+  height: 75px;
+  /*font-family: Roboto;*/
+  font-size: 16px;
+  line-height: 2.06;
+  color: #000000;
+  color: var(--black);
+  width: 85%;
+  position: absolute;
+  padding-top: 2%;
+  left: 0;
+  right: 0;
+}
+
+.Note-By-using-the- {
+  padding-left: 1%;
+  width: 65%;
+  /*margin: 0 auto;*/
+  height: 64px;
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  font-style: italic;
+  /*text-align: center;*/
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding-bottom: 18%;
+  color: rgba(0, 0, 0, 0.57);
+}
+
+
+
+
+
+
+.Congratulations-You {
+  width: 490px;
+  height: 42px;
+  /*font-family: Roboto;*/
+  font-size: 18px;
+  font-weight: 500;
+  color: #000000;
+  color: var(--black);
+}
+
+.You-can-now-connect {
+  width: 95%;
+  height: 48px;
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  font-weight: 300;
+  color: #000000;
+  color: var(--black);
+}
+
+.Translation-Request {
+  width: 240px;
+  height: 19px;
+  /*font-family: Roboto;*/
+  font-size: 16px;
+  text-align: center;
+  color: #000000;
+  color: var(--black);
+}
+
+.Payment-Method {
+  width: 153px;
+  height: 21px;
+  /*font-family: Roboto;*/
+  font-size: 18px;
+  font-weight: 500;
+  padding-top: 10px;
+  text-align: center;
+  color: #000000;
+  color: var(--black);
+}
+
+.It-appears-you-haven {
+  width: 316px;
+  height: 48px;
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  font-weight: 300;
+  color: #000000;
+  color: var(--black);
+}
+
+.Translation-Request-Right {
+  width: 251px;
+  height: 21px;
+  /*font-family: Roboto;*/
+  font-size: 18px;
+  color: #000000;
+  color: var(--black);
+}
+
+#table-wrapper {
+  width: 95%;
+  overflow:hidden;
+  overflow-y: auto;
+  max-height: 315px; 
+}
+
+/*#request-table-head {
+  position: relative;
+}*/
+
+.outer-wrapper {
+  position: relative;
+}
+
+.request-table {
+  width: 100%;
+  border-collapse:collapse;
+  table-layout: fixed;
+}
+
+.request-table-item {
+  height: 40px;
+}
+
+.table-header {
+  /*width: 25px;*/
+  height: 14px;
+  /*font-family: Roboto;*/
+  font-size: 12px;
+  font-weight: 500;
+  text-align: center;
+  color: #000000;
+  color: var(--black);
+}
+
+.table-total {
+  display: table-cell; text-align: center;
+  background-color: rgba(243, 243, 243, 0.52);
+}
+
+.row-total {
+  background-color: rgba(243, 243, 243, 0.52);
+}
+
+.bordered-bottom {
+    border-bottom: solid 1px rgba(0, 0, 0, 0.12) !important;
+}
+
+.translation-summary-list-text {
+  width: 262px;
+  height: 14px;
+  /*font-family: Roboto;*/
+  font-size: 12px;
+  font-weight: 300;
+  color: #000000 !important;
+  /*color: var(--black) !important;*/
+}
+
+.translation-summary-list {
+  list-style-type:disc;
+  padding-left: 30px;
+  color:#ec8225;
+  max-height: 20%;
+  overflow: auto;
+}
+
+.translation-summary-cost {
+  float: right;
+  padding-right: 3%;
+}
+
+.request-total {
+  padding-left:15px;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.lingotek-total-amount {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.disclaimer-request {
+  width: 90%;
+  height: 33px;
+  /* font-family: Roboto; */
+  font-size: 9px;
+  padding-left: 5%;
+  color: rgba(0, 0, 0, 0.57);
+  text-align: center;
+  position: absolute;
+  bottom: 12%;
+}
+
+.ltk-request-payment-disclaimer {
+  width: 90%;
+  height: 33px;
+  /* font-family: Roboto; */
+  font-size: 9px;
+  padding-left: 5%;
+  color: rgba(0, 0, 0, 0.57);
+  text-align: center;
+  position: absolute;
+  bottom: 6%;
+}
+
+.request-checkbox {
+  /*padding-left: 10px;*/
+  padding-left: 7%;
+  position: absolute;
+  bottom: 14%;
+}
+
+.terms-conditions {
+  width: 189px;
+  height: 11px;
+  /*font-family: Roboto;*/
+  font-size: 11px;
+  /*color: #3085ed;*/
+}
+
+.header-table-hidden {
+  display: none;
+}
+
+.row-table-hidden {
+  display: none;
+}
+
+.row-total {
+  text-align: center;
+}
+
+.document-title {
+  /*max-width: 70px;*/
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.loading-progress-bar-outer {
+  position:absolute;
+  left:0; right:0;
+  top:0; bottom:0;
+	margin:auto;
+  width: 350px;
+  height: 30px;
+  border: solid 1px #57554f;
+}
+
+.loading-progress-bar-inner {
+  width: 210px;
+  height: 30px;
+  background-color: #57554f;
+}
+
+.loading-progress-percent {
+  position:absolute;
+  left:400px; right:0;
+  top:0; bottom:0;
+	margin:auto;
+  width: 214.2px;
+  height: 16px;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  color: #000000;
+}
+
+.loading-translations-image {
+   position:absolute;
+  left:0; right:0;
+  top:0; bottom:330px;
+	margin:auto;
+}
+
+.Analyzing-translations {
+  position:absolute;
+  left:0; right:0;
+  top:260px; bottom:0;
+	margin:auto;
+  width: 367px;
+  height: 21px;
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  color: #000000;
+}
+
+.payment-portal-image {
+    padding-top: 20px;
+    position:absolute;
+    left:0; right:0;
+    top:0;
+	  margin:auto;
+}
+
+.You-are-now-being-re {
+  position:absolute;
+  left:0; right:0;
+  bottom:0;
+	margin:auto;
+  padding-bottom: 75px;
+  width: 565px;
+  height: 21px;
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  color: #000000;
+}
+
+.payment-portal-loading {
+  position:absolute;
+  left:0; right:0;
+  top:0; bottom:0;
+	margin:auto;
+  padding-top: 20px;
+}
+
+#words-column {
+  text-align: center;
+}
+.word-count {
+  text-align: center;
+}
+
+#wrapper {
+  margin-right: 320px;
+}
+#content {
+  float: left;
+  width: 100%;
+}
+#sidebar {
+  position: relative;
+  float: right;
+  width: 320px;
+  margin-right: -320px;
+  padding-top: 10px;
+}
+#cleared {
+  clear: both;
+}
+
+.terms-and-conditions-header {
+  width: 472px;
+  height: 21px;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  color: #000000;
+}
+
+#close-terms-and-conditions {
+  width: 54px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: #f13b3b;
+  border: none;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.26);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+#close-terms-and-conditions:hover {
+  width: 54px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: rgba(238, 32, 40, 0.8);
+  border: none;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.26);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#terms-of-service-loading-ltk {
+  padding-left: 23%;
+  padding-top: 7%;
+}
+
+.float-bottom-right {
+  float: right;
+  position: absolute;
+  bottom: 0;
+  /* left: 0; */
+  right: 0;
+  margin: auto;
+}
+
+.float-bottom-left {
+  float: left;
+  position: absolute;
+  bottom: 0;
+  /* left: 0; */
+  left: 0;
+  margin: auto;
+}
+
+.float-bottom-right-next-to {
+  float: right;
+  position: absolute;
+  bottom: 0;
+  right: 11%;
+  margin: auto;
+}
+
+.float-bottom-right-next-to-default {
+  float: right;
+  position: absolute;
+  bottom: 0;
+  right: 23%;
+  margin: auto;
+}
+
+
+.float-center {
+  margin: 0 auto;
+  right: 0;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.CLOSE-TERMS-CONDITIONS {
+  width: 80.8px;
+  height: 15px;
+  font-size: 13px;
+  font-weight: 500;
+  text-align: center;
+  color: #ffffff;
+}
+
+#professional-terms-and-conditions {
+  position: relative;
+  width: 95%;
+}
+
+.terms-and-conditions-content {
+  font-size: 14px;
+  font-weight: 300;
+  color: #000000;
+  max-height: 400px;
+  overflow-y:auto
+}
+
+#payment-portal-wrapper {
+  height: 100%;
+  position: relative;
+}
+
+.professional-card-border {
+  width: 271px;
+  height: 35px;
+  border: solid 1px #3b9af1;
+  position: relative;
+}
+
+.credit-card-header {
+  width: 113px;
+  height: 16px;
+  font-size: 14px;
+  color: #000000;
+}
+
+#last-four-digits {
+  width: 37px;
+  height: 18px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #000000;
+
+  position: relative;
+  top: 25%;
+  transform: translateY(-50%);
+}
+
+
+.credit-card-dots-div {
+    float: left;
+    padding-right: 5px;
+    height: 100%;
+    width: 53%;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.credit-card-image-div {
+  width: 17%;
+  height: 100%;
+  float: left;
+}
+
+#credit-card-image {
+  width: 50%;
+  padding-left: 23%;
+  padding-top: 22%;
+}
+
+#credit-card-dots {
+  position: relative;
+  top: 25%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+
+#blue-radio-button {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.last-four-digits-div {
+    float: left;
+    height: 100%;
+    padding-left: 5px;
+}
+
+
+.blue-radio-button-div {
+    float: left;
+    padding-right: 5px;
+    padding-left: 5px;
+    height: 100%;
+}
+
+
+.professional-translation-view-invoice {
+  position: relative;
+  left: 0;
+  right: 0;
+  margin: auto;
+  bottom: 0;
+  top: 70%;
+  width: 440.2px;
+  height: 38px;
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  color: #000000;
+}
+
+#professional-translation-cost-success {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#requesting-translation-success-screen {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#requesting-translation-error-screen {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.professional-view-invoice-btn {
+  position: absolute;
+  top: 92%;
+  width: 105px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: #3b9af1;
+  border: none;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.26);
+}
+
+.professional-view-invoice-btn:hover {
+  position: absolute;
+  top: 92%;
+  width: 105px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: rgba(59, 154, 240, 0.82);
+  border: none;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.26);
+}
+
+.green-check-success {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.professional-upload-warning-header {
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  color: #000000;
+}
+
+.professional-upload-warning-body {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 2.06;
+  color: #000000;
+}
+
+.professional-upload-warning-header-container {
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 707px;
+  height: 24px;
+  position: absolute;
+  top: 5%;
+}
+
+.professional-upload-warning-body-container {
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 707px;
+    height: 99px;
+    position: absolute;
+    top: 20%;
+}
+
+.professional-warning-checkbox-container {
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 707px;
+  position: absolute;
+  top: 58%;
+}
+.professional-warning-checkbox-text-container {
+  left: 0;
+  right: 20%;
+  margin: auto;
+  width: 707px;
+  position: absolute;
+  top: 58%;
+  width: 460.1px;
+  height: 57px;
+}
+.professional-warning-checkbox-text {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.58);
+}
+
+.professional-cancel-button {
+  width: 63px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: white;
+  /*box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.26);*/
+  border: none;
+}
+
+.professional-cancel-button:hover {
+  width: 63px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: rgba(212, 212, 212, 0.62);
+  border: none;
+}
+
+.professional-okay-warning-button {
+  width: 73px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: #F13B3B;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.26);
+  border: none;
+}
+
+.professional-okay-warning-button:hover {
+  width: 73px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: rgba(238, 32, 40, 0.8);
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.26);
+  border: none;
+}
+
+
+
+.professional-okay-warning-button-disabled {
+  width: 73px;
+  height: 32px;
+  border-radius: 3px;
+  background-color: #e6e6e6;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.26);
+  border: none;
+}
+
+.minimum-per-language-warning {
+  width: 100%;
+  height: 15px;
+  /*font-family: Roboto;*/
+  font-size: 13px;
+}
+
+.minimum-warning {
+  color: #ff7f00;
+}
+
+.minimum-disclaimer {
+  font-size: 10px;
+  font-weight: 300;
+  font-style: italic;
+  color: #666666;
+  padding-left: 5%;
+}
+
+.delivery-estimation {
+  height: 16px;
+  /* font-family: Roboto; */
+  font-size: 14px;
+  font-weight: 300;
+  color: #000000;
+  position: absolute;
+  bottom: 21%;
+  padding-left: 7%;
+}
+
+.business-days {
+  font-size: 14px;
+  font-weight: 500;
+  color: #000000;
+}
+
+.language-header {
+  font-size: 10px;
+  /*font-weight:normal;*/
+}
+
+.cost-header {
+  font-size: 11px;
+  font-weight:normal;
+}
+
+.cost-font-size {
+  font-size: 11px;
+}
+
+.invisible {
+  display: none !important;
+}
+
+.ltk-thickbox {
+  width: 980px !important;
+  margin-left: -490px !important;
+  margin-top: -295px !important;
+  visibility: visible !important;
+}
+
+.ltk-thickbox-warning {
+  margin-left: -415px !important;
+  width: 830px !important;
+  margin-top: -220px !important;
+  visibility: visible !important;
+}
+
+
+/* Add this attribute to the element that needs a tooltip */
+[ltk-data-tooltip] {
+  position: relative;
+  z-index: 2;
+  cursor: pointer;
+}
+
+/* Hide the tooltip content by default */
+[ltk-data-tooltip]:before,
+[ltk-data-tooltip]:after {
+  visibility: hidden;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Position tooltip above the element */
+[ltk-data-tooltip]:before {
+  position: absolute;
+  bottom: 150%;
+  left: 50%;
+  margin-bottom: 5px;
+  margin-left: -200px;
+  padding: 7px;
+  width: 236px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #000;
+  background-color: hsla(0, 0%, 20%, 0.9);
+  color: #fff;
+  content: attr(ltk-data-tooltip);
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+/* Triangle hack to make tooltip look like a speech bubble */
+[ltk-data-tooltip]:after {
+  position: absolute;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -5px;
+  width: 0;
+  border-top: 5px solid #000;
+  border-top: 5px solid hsla(0, 0%, 20%, 0.9);
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+  content: " ";
+  font-size: 0;
+  line-height: 0;
+}
+
+/* Show tooltip content on hover */
+[ltk-data-tooltip]:hover:before,
+[ltk-data-tooltip]:hover:after {
+  visibility: visible;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
+
+/*centered*/
+
+[ltk-data-tooltip-ctr] {
+  position: relative;
+  z-index: 2;
+  cursor: pointer;
+}
+
+/* Hide the tooltip content by default */
+[ltk-data-tooltip-ctr]:before,
+[ltk-data-tooltip-ctr]:after {
+  visibility: hidden;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Position tooltip above the element */
+[ltk-data-tooltip-ctr]:before {
+  position: absolute;
+  bottom: 150%;
+  left: 50%;
+  margin-bottom: 5px;
+  margin-left: -130px;
+  padding: 7px;
+  width: 236px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #000;
+  background-color: hsla(0, 0%, 20%, 0.9);
+  color: #fff;
+  content: attr(ltk-data-tooltip-ctr);
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+/* Triangle hack to make tooltip look like a speech bubble */
+[ltk-data-tooltip-ctr]:after {
+  position: absolute;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -5px;
+  width: 0;
+  border-top: 5px solid #000;
+  border-top: 5px solid hsla(0, 0%, 20%, 0.9);
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+  content: " ";
+  font-size: 0;
+  line-height: 0;
+}
+
+/* Show tooltip content on hover */
+[ltk-data-tooltip-ctr]:hover:before,
+[ltk-data-tooltip-ctr]:hover:after {
+  visibility: visible;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}

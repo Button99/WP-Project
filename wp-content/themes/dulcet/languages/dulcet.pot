@@ -1,0 +1,337 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-12-10 08:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:52
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 response to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s responses to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:83
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:84
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary"
+msgstr ""
+
+#: functions.php:58
+msgid "Social"
+msgstr ""
+
+#: functions.php:111
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:113 functions.php:123 functions.php:131 functions.php:141 
+#: functions.php:151 functions.php:161
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:121
+msgid "Header Text"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:139
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:149
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:159
+msgid "Footer 4"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:185
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:189
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. To add an additional character subset specific to your language,
+#. translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:197
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: header.php:36
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Frontpage Layout"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Post Format Color"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Hide Post Format"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Check this box to disable post format icon."
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Standard"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Aside"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Image"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Video"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Quote"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Link"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Chat"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Audio"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Gallery"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Number footer columns to display."
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Disable footer widgets"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Footer widgets background color"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Footer widgets text color"
+msgstr ""
+
+#: inc/extras.php:52
+msgid "Continue reading"
+msgstr ""
+
+#: inc/template-tags.php:28 inc/template-tags.php:61
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by%s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:80
+msgid ", "
+msgstr ""
+
+#. 1: date, 2: time
+#: inc/template-tags.php:82 inc/template-tags.php:218
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:162
+#, php-format
+msgid "Copyright %1$s %2$s %3$s"
+msgstr ""
+
+#: inc/template-tags.php:166
+#, php-format
+msgid "%1$s theme by %2$s"
+msgstr ""
+
+#: inc/template-tags.php:195
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:195
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags.php:221
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:226
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:51
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. Name of the theme
+msgid "Dulcet"
+msgstr ""
+
+#. Description of the theme
+msgid "Dulcet is a clean, simple responsive theme for WordPress."
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpstash.com/themes/dulcet"
+msgstr ""
+
+#. Author of the theme
+msgid "WPStash"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpstash.com"
+msgstr ""

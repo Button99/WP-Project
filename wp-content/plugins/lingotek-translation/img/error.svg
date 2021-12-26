@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_error_black_24px (2)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="wp-translation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Error-Modal-Screen" transform="translate(-763.000000, -381.000000)">
+            <g id="ic_error_black_24px-(2)" transform="translate(756.000000, 374.000000)">
+                <polygon id="Shape" points="0 0 95 0 95 95 0 95"></polygon>
+                <path d="M47.5,7.91666667 C25.65,7.91666667 7.91666667,25.65 7.91666667,47.5 C7.91666667,69.35 25.65,87.0833333 47.5,87.0833333 C69.35,87.0833333 87.0833333,69.35 87.0833333,47.5 C87.0833333,25.65 69.35,7.91666667 47.5,7.91666667 Z M51.4583333,67.2916667 L43.5416667,67.2916667 L43.5416667,59.375 L51.4583333,59.375 L51.4583333,67.2916667 Z M51.4583333,51.4583333 L43.5416667,51.4583333 L43.5416667,27.7083333 L51.4583333,27.7083333 L51.4583333,51.4583333 Z" id="Shape" fill="#F13B3B" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

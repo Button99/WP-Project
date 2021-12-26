@@ -1,0 +1,379 @@
+# Translation of Themes - Dulcet in Greek
+# This file is distributed under the same license as the Themes - Dulcet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-08 09:12:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Dulcet\n"
+
+#. Description of the theme
+msgid "Dulcet is a clean, simple responsive theme for WordPress."
+msgstr "Το Dulcet είναι ένα απλό, καθαρό responsive θέμα εμφάνισης για WordPress."
+
+#. Theme Name of the theme
+msgid "Dulcet"
+msgstr "Dulcet"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Σελίδα πλήρους πλάτους"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Επεξεργασία του %s"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:51
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπάμαι, αλλά τίποτα δεν βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι να δημοσιεύσετε το πρώτο σας άρθρο; <a href=\"%1$s\">Ξεκινήστε εδώ</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Δε βρέθηκε τίποτα"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα για %s"
+
+#: inc/widgets.php:110
+msgid "ASC"
+msgstr "ΑΥΞ"
+
+#: inc/widgets.php:109
+msgid "DESC"
+msgstr "ΦΘΙ"
+
+#: inc/widgets.php:107
+msgid "Order"
+msgstr "Σειρά"
+
+#: inc/widgets.php:104
+msgid "Random"
+msgstr "Τυχαία"
+
+#: inc/widgets.php:103
+msgid "Comment count"
+msgstr "Αριθμός σχολίων"
+
+#: inc/widgets.php:101
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: inc/widgets.php:99
+msgid "Order by"
+msgstr "Ταξινόμηση ανά"
+
+#: inc/widgets.php:94
+msgid "Number of photos"
+msgstr "Αριθμός φωτογραφιών"
+
+#: inc/widgets.php:89 inc/widgets.php:102
+msgid "Title"
+msgstr "Τίτλος"
+
+#: inc/widgets.php:31 inc/widgets.php:78
+msgid "Recent Posts"
+msgstr "Πρόσφατα άρθρα"
+
+#: inc/widgets.php:20
+msgid "Displays custom posts."
+msgstr "Εμφανίζει προσαρμοσμένα άρθρα."
+
+#: inc/widgets.php:17
+msgid "Dulcet Recent Posts"
+msgstr "Dulcet Πρόσφατα άρθρα"
+
+#: inc/template-tags.php:186
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιο σου περιμένει έλεγχο."
+
+#: inc/template-tags.php:181
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: inc/template-tags.php:180
+msgid "Reply"
+msgstr "Απάντηση"
+
+#: inc/template-tags.php:179
+msgid "%1$s at %2$s"
+msgstr "%1$s στις %2$s"
+
+#: inc/template-tags.php:160
+msgid "(Edit)"
+msgstr "(Επεξεργασία)"
+
+#: inc/template-tags.php:160
+msgid "Pingback:"
+msgstr "Παράθεση:"
+
+#: inc/template-tags.php:131
+msgid "%1$s theme by %2$s"
+msgstr "%1$s θέμα από %2$s"
+
+#: inc/template-tags.php:127
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Copyright %1$s %2$s %3$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:45
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:35
+msgid "Continue reading"
+msgstr "Συνεχίστε να διαβάζετε"
+
+#: inc/customizer.php:314
+msgid "Header social hover color"
+msgstr "Χρώμα καταδεικνούμενου στοιχείου κοινωνικών δικτύου κεφαλίδας"
+
+#: inc/customizer.php:298
+msgid "Header social color"
+msgstr "Χρώμα στοιχείων κοινωνικών δικτύου κεφαλίδας"
+
+#: inc/customizer.php:281
+msgid "Menu active/hover color"
+msgstr "Χρώμα ενεργού/καταδεικνούμενου στοιχείου μενού"
+
+#: inc/customizer.php:265
+msgid "Menu link color"
+msgstr "Χρώμα συνδέσμου μενού"
+
+#: inc/customizer.php:247
+msgid "Footer widgets text color"
+msgstr "Χρώμα κειμένου μικροεφαρμογών υποσέλιδου"
+
+#: inc/customizer.php:230
+msgid "Footer widgets background color"
+msgstr "Χρώμα φόντου μικροεφαρμογών υποσέλιδου"
+
+#: inc/customizer.php:213
+msgid "Disable footer widgets"
+msgstr "Απενεργοποίηση μικροεφαρμογών υποσέλιδου"
+
+#: inc/customizer.php:207
+msgid "Number footer columns to display."
+msgstr "Πλήθος στηλών υποσέλιδου προς εμφάνιση."
+
+#: inc/customizer.php:205
+msgid "Footer Layout"
+msgstr "Διάταξη υποσέλιδου"
+
+#: inc/customizer.php:188
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+#: inc/customizer.php:176
+msgid "Gallery"
+msgstr "Γκαλερί"
+
+#: inc/customizer.php:165
+msgid "Audio"
+msgstr "Ήχος"
+
+#: inc/customizer.php:154
+msgid "Chat"
+msgstr "Συνομιλία"
+
+#: inc/customizer.php:143
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+#: inc/customizer.php:132
+msgid "Quote"
+msgstr "Απόσπασμα"
+
+#: inc/customizer.php:121
+msgid "Video"
+msgstr "Βίντεο"
+
+#: inc/customizer.php:111
+msgid "Image"
+msgstr "Εικόνα"
+
+#: inc/customizer.php:100
+msgid "Aside"
+msgstr "Μικροάρθρο"
+
+#: inc/customizer.php:89
+msgid "Standard"
+msgstr "Κανονικό"
+
+#: inc/customizer.php:79
+msgid "Check this box to disable post format icon."
+msgstr "Επιλέξτε αυτό το πλαίσιο για να απενεργοποιήσετε τα εικονίδια τύπου άρθρου."
+
+#: inc/customizer.php:76
+msgid "Hide Post Format Icons"
+msgstr "Απόκρυψη εικονιδίων μορφής ανάρτησης"
+
+#: inc/customizer.php:62
+msgid "Post Format Color"
+msgstr "Χρώμα μορφής άρθρου"
+
+#: inc/customizer.php:53
+msgid "Right Sidebar"
+msgstr "Δεξιά πλευρική στήλη"
+
+#: inc/customizer.php:52
+msgid "Left Sidebar"
+msgstr "Αριστερή πλευρική στήλη"
+
+#: inc/customizer.php:49
+msgid "Frontpage Layout"
+msgstr "Διάταξη αρχικής σελίδας"
+
+#: inc/customizer.php:35
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: inc/customizer.php:25
+msgid "Theme Options"
+msgstr "Ρυθμίσεις θέματος"
+
+#: header.php:41
+msgid "Skip to content"
+msgstr "Μετάβαση στο περιεχόμενο"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:206
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "χωρίς υποσύνολο"
+
+#: functions.php:198
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:194
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: functions.php:168
+msgid "Footer 4"
+msgstr "Υποσέλιδο 4"
+
+#: functions.php:158
+msgid "Footer 3"
+msgstr "Υποσέλιδο 3"
+
+#: functions.php:148
+msgid "Footer 2"
+msgstr "Υποσέλιδο 2"
+
+#: functions.php:138
+msgid "Footer 1"
+msgstr "Υποσέλιδο 1"
+
+#: functions.php:130
+msgid "Header Text"
+msgstr "Κείμενο κεφαλίδας"
+
+#: functions.php:122 functions.php:132 functions.php:140 functions.php:150
+#: functions.php:160 functions.php:170
+msgid "Add widgets here."
+msgstr "Προσθέστε εδώ μικροεφαρμογές."
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Πλευρική στήλη"
+
+#: functions.php:58
+msgid "Social"
+msgstr "Social"
+
+#: functions.php:57
+msgid "Primary"
+msgstr "Αρχικό"
+
+#: comments.php:97
+msgid "Submit Comment"
+msgstr "Υποβολή σχολίου"
+
+#: comments.php:96
+msgid "Leave a Comment"
+msgstr "Αφήστε ένα σχόλιο"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι κλειστά."
+
+#: comments.php:57 comments.php:79
+msgid "Newer Comments"
+msgstr "Νεότερα σχόλια"
+
+#: comments.php:56 comments.php:78
+msgid "Older Comments"
+msgstr "Παλιότερα σχόλια"
+
+#: comments.php:53 comments.php:75
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s απάντηση στο &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s απαντήσεις στο &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Μια σκέψη στο &ldquo;%s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:52
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Δοκιμάστε να ψάξετε στα αρχεία ανά μήνα. %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Κοινότερες κατηγορίες"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Δε βρέθηκε κάτι σε αυτή την τοποθεσία. Ίσως να δοκιμάζατε κάποιον από τους παρακάτω συνδέσμους ή να κάνατε μία αναζήτηση;"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωχ! Αυτή η σελίδα δεν βρέθηκε."
+
+#. Author URI of the theme
+msgid "https://www.famethemes.com/"
+msgstr "https://www.famethemes.com/"
+
+#. Author of the theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the theme
+msgid "https://freeresponsivethemes.com/dulcet/"
+msgstr "https://freeresponsivethemes.com/dulcet/"

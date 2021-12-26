@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="18px" viewBox="0 0 25 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>credit-card</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="wp-translation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.57">
+        <g id="Bulk---Scroll-2" transform="translate(-1095.000000, -315.000000)" fill-rule="nonzero" fill="#000000">
+            <g id="credit-card" transform="translate(1095.000000, 315.000000)">
+                <path d="M22.5,4.5 L2.5,4.5 L2.5,2.25 L22.5,2.25 L22.5,4.5 Z M22.5,15.75 L2.5,15.75 L2.5,9 L22.5,9 L22.5,15.75 Z M22.5,0 L2.5,0 C1.1125,0 0,1.00125 0,2.25 L0,15.75 C0,16.9926407 1.11928813,18 2.5,18 L22.5,18 C23.8807119,18 25,16.9926407 25,15.75 L25,2.25 C25,1.00125 23.875,0 22.5,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
