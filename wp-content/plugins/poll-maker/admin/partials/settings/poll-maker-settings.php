@@ -1716,6 +1716,15 @@ $poll_fields_placeholder_phone = (isset($fields_placeholders['poll_fields_placeh
                                         <?php echo __( "The user's first name that was filled in their WordPress site during registration.", $this->plugin_name); ?>
                                     </span>
                                 </p>
+                                <p class="vmessage">
+                                    <strong>
+                                        <input type="text" onClick="this.setSelectionRange(0, this.value.length)" readonly value="%%users_last_name%%" class='ays-poll-message-variables-inputs'/>
+                                    </strong>
+                                    <span> - </span>
+                                    <span style="font-size:18px;">
+                                        <?php echo __( "The user's last name that was filled in their WordPress site during registration.", $this->plugin_name); ?>
+                                    </span>
+                                </p>
                             </div>
                         </div>
                     </div>

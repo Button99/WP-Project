@@ -53,7 +53,7 @@ if ( function_exists( 'wp_body_open' ) ) {
 
 					<?php
 						if ( is_front_page() && is_home() ) : ?>
-							<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+							<h2 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h2>
 					<?php else : ?>
 							<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
 					<?php
@@ -62,7 +62,7 @@ if ( function_exists( 'wp_body_open' ) ) {
 					<?php
 					$description = get_bloginfo( 'description', 'display' );
 					if ( $description || is_customize_preview() ) : ?>
-						<p class="site-description"><?php echo esc_html( $description ); /* WPCS: xss ok. */ ?></p>
+						<h4 class="site-description"><?php echo esc_html( $description ); /* WPCS: xss ok. */ ?></h4>
 					<?php
 					endif; ?>
 

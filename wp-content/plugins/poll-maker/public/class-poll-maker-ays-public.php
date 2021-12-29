@@ -1747,10 +1747,12 @@ class Poll_Maker_Ays_Public {
 
 		$poll_user_information = $this->get_user_profile_data();
 		$user_first_name = (isset( $poll_user_information['user_first_name'] ) && $poll_user_information['user_first_name']  != "") ? $poll_user_information['user_first_name'] : '';	
+		$user_last_name = (isset( $poll_user_information['user_last_name'] ) && $poll_user_information['user_last_name']  != "") ? $poll_user_information['user_last_name'] : '';	
 
 		$message_data = array(
 			'poll_title'       => stripslashes($poll['title']),
-			'users_first_name' => $user_first_name
+			'users_first_name' => $user_first_name,
+			'users_last_name' => $user_last_name
 		);
 
 		$ays_result_message = ( isset( $options['result_message'] ) ) ? trim( $options['result_message'] )  : '';

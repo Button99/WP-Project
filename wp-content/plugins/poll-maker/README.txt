@@ -4,7 +4,7 @@ Donate link: https://ays-pro.com/wordpress/poll-maker
 Tags:  poll maker, WordPress Poll, vote, rating, elections
 Requires at least: 4.0
 Tested up to: 5.8.2
-Stable tag: 3.7.5
+Stable tag: 3.7.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -312,6 +312,11 @@ can say that it is a widget poll.
 
 
 == Changelog ==
+
+= 3.7.6 =
+* Added: Users last name message variable
+* Updated: German language translation text
+* Updated: POT file
 
 = 3.7.5 =
 * Added: Change current poll creation date option
