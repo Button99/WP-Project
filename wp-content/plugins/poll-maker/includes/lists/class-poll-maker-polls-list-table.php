@@ -355,6 +355,9 @@ class Polls_List_Table extends WP_List_Table {
 			// Buttons font size
 			$poll_buttons_font_size = (isset($data['ays_poll_buttons_font_size']) && $data['ays_poll_buttons_font_size'] != "") ? sanitize_text_field($data['ays_poll_buttons_font_size']) : '17';
 
+			// Buttons mobile font size
+			$poll_buttons_mobile_font_size = (isset($data['ays_poll_buttons_mobile_font_size']) && $data['ays_poll_buttons_mobile_font_size'] != "") ? sanitize_text_field($data['ays_poll_buttons_mobile_font_size']) : '17';
+
 			// Buttons Left / Right padding
 			$poll_buttons_left_right_padding = (isset($data['ays_poll_buttons_left_right_padding']) && $data['ays_poll_buttons_left_right_padding'] != "") ? sanitize_text_field($data['ays_poll_buttons_left_right_padding']) : '20';
 
@@ -479,6 +482,7 @@ class Polls_List_Table extends WP_List_Table {
     			'poll_mobile_max_width'	            => $poll_mobile_max_width,
 				'poll_buttons_size'                 => $poll_buttons_size,
                 'poll_buttons_font_size'            => $poll_buttons_font_size,
+                'poll_buttons_mobile_font_size'     => $poll_buttons_mobile_font_size,
                 'poll_buttons_left_right_padding'   => $poll_buttons_left_right_padding,
                 'poll_buttons_top_bottom_padding'   => $poll_buttons_top_bottom_padding,
 				'poll_buttons_border_radius'        => $poll_buttons_border_radius,

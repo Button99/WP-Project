@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WP Google Maps - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-04-26 12:15:29+0000\n"
+"PO-Revision-Date: 2021-12-31 16:31:46+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,693 @@ msgstr ""
 "X-Generator: GlotPress/3.0.0-alpha.2\n"
 "Language: en_GB\n"
 "Project-Id-Version: Plugins - WP Google Maps - Development (trunk)\n"
+
+#: html/settings-page.html.php:419
+msgid "Caltopo *"
+msgstr "Caltopo *"
+
+#: html/settings-page.html.php:413
+msgid "MapTiler Basic *"
+msgstr "MapTiler Basic *"
+
+#: html/settings-page.html.php:407
+msgid "MapTiler Pastel *"
+msgstr "MapTiler Pastel *"
+
+#: html/settings-page.html.php:401
+msgid "MapTiler Outdoor *"
+msgstr "MapTiler Outdoor *"
+
+#: html/settings-page.html.php:395
+msgid "MapTiler Streets *"
+msgstr "MapTiler Streets *"
+
+#: html/settings-page.html.php:389
+msgid "Carto Dark (Dark Matter) *"
+msgstr "Carto Dark (Dark Matter) *"
+
+#: html/settings-page.html.php:382
+msgid "Carto Light (Positron) *"
+msgstr "Carto Light (Positron) *"
+
+#: html/settings-page.html.php:362
+msgid "Thunderforest Outdoors *"
+msgstr "Thunderforest Outdoors *"
+
+#: html/settings-page.html.php:355
+msgid "Thunderforest Landscape *"
+msgstr "Thunderforest Landscape *"
+
+#: html/settings-page.html.php:348
+msgid "Transport Map *"
+msgstr "Transport Map *"
+
+#: html/settings-page.html.php:306
+msgid "OpenCycleMap *"
+msgstr "OpenCycleMap *"
+
+#: html/map-edit-page/map-edit-page.html.php:1872
+msgid "Override zoom level on listing click"
+msgstr "Override zoom level on listing click"
+
+#: html/map-edit-page/map-edit-page.html.php:2649
+msgid "WPML"
+msgstr "WPML"
+
+#: html/map-edit-page/map-edit-page.html.php:2648
+msgid "Translating the plugin with"
+msgstr "Translating the plugin with"
+
+#: html/map-edit-page/map-edit-page.html.php:421
+msgid "Marker listings will not be filtered based on visible markers. Enable the 'Only load markers within viewport (beta)' option for beta filtering support"
+msgstr "Marker listings will not be filtered based on visible markers. Enable the 'Only load markers within viewport (beta)' option for beta filtering support"
+
+#: html/map-edit-page/map-edit-page.html.php:1387
+msgid "This feature may not work as expected with bounds specific settings"
+msgstr "This feature may not work as expected with bounds specific settings"
+
+#: html/map-edit-page/map-edit-page.html.php:542
+msgid "Show distance from search"
+msgstr "Show distance from search"
+
+#: html/settings-page.html.php:1498
+msgid "WP Google Maps GDPR options have been disabled as they are fully controlled by Complianz"
+msgstr "WP Google Maps GDPR options have been disabled as they are fully controlled by Complianz"
+
+#: html/settings-page.html.php:1494
+msgid "GDPR consent automatically enabled and configured by Complianz"
+msgstr "GDPR consent automatically enabled and configured by Complianz"
+
+#: html/settings-page.html.php:1429
+msgid "We recommend leaving automatic backups enabled. We will automatically backup your data before an import or update to our plugin."
+msgstr "We recommend leaving automatic backups enabled. We will automatically backup your data before an import or update to our plugin."
+
+#: html/settings-page.html.php:1233
+msgid "Database"
+msgstr "Database"
+
+#: html/settings-page.html.php:894 html/settings-page.html.php:1061
+msgid "Dependencies"
+msgstr "Dependencies"
+
+#: html/settings-page.html.php:1382
+msgid "This will delete all shapes."
+msgstr "This will delete all shapes."
+
+#: html/settings-page.html.php:1370
+msgid "This will delete all markers."
+msgstr "This will delete all markers."
+
+#: html/settings-page.html.php:1358
+msgid "This will delete all maps, markers, shapes, categories, and custom fields."
+msgstr "This will delete all maps, markers, shapes, categories, and custom fields."
+
+#: html/settings-page.html.php:1345
+msgid "This will reset all settings back to their default."
+msgstr "This will reset all settings back to their default."
+
+#: html/settings-page.html.php:1332
+msgid "This will delete all settings, maps, markers, shapes, categories, and custom fields and reset the plugin back to the first time you used it."
+msgstr "This will delete all settings, maps, markers, shapes, categories, and custom fields and reset the plugin back to the first time you used it."
+
+#: html/map-edit-page/marker-panel.html.php:85
+msgid "Position"
+msgstr "Position"
+
+#: html/map-edit-page/marker-panel.html.php:49
+msgid "You can now drag the marker to adjust the position without updating the address field. Field editing is disabled in this mode"
+msgstr "You can now drag the marker to adjust the position without updating the address field. Field editing is disabled in this mode"
+
+#: html/settings-page.html.php:1186
+msgid "This is an optional API key provided by your preferred OpenLayers tile service, and should only be added if required by the TileServer provider"
+msgstr "This is an optional API key provided by your preferred OpenLayers tile service, and should only be added if required by the TileServer provider"
+
+#: html/settings-page.html.php:430
+msgid "You can add an API key under the Advanced Settings tab if required by your TileServer provider"
+msgstr "You can add an API key under the Advanced Settings tab if required by your TileServer provider"
+
+#: html/settings-page.html.php:136
+msgid "examples"
+msgstr "examples"
+
+#: html/settings-page.html.php:234
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: html/settings-page.html.php:228
+msgid "Filter by category displayed as"
+msgstr "Filter by category displayed as"
+
+#: html/settings-page.html.php:220
+msgid "AND"
+msgstr "AND"
+
+#: includes/tables/class.admin-map-datatable.php:108
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: includes/tables/trait.admin-feature-datatable.php:20
+msgid "Delete this feature"
+msgstr "Delete this feature"
+
+#: includes/class.page.php:29
+msgid "Get the Pro add-on to enable this feature"
+msgstr "Get the Pro add-on to enable this feature"
+
+#: includes/class.country-select.php:30
+msgid "Please select"
+msgstr "Please select"
+
+#: html/map-edit-page/circle-panel.html.php:61
+msgid "Radius (km)"
+msgstr "Radius (km)"
+
+#: html/map-edit-page/circle-panel.html.php:37
+msgid "<strong>Click and drag</strong> the edge of the circle to alter it's radius."
+msgstr "<strong>Click and drag</strong> the edge of the circle to alter its radius."
+
+#: html/map-edit-page/circle-panel.html.php:32
+msgid "<strong>Click and drag</strong> the center of the circle to move it."
+msgstr "<strong>Click and drag</strong> the centre of the circle to move it."
+
+#: html/map-edit-page/circle-panel.html.php:27
+msgid "Use the fields below to edit this circles information."
+msgstr "Use the fields below to edit this circle's information."
+
+#: html/map-edit-page/circle-panel.html.php:17
+msgid "<strong>Click</strong> a second time to finish drawing your circle."
+msgstr "<strong>Click</strong> a second time to finish drawing your circle."
+
+#: html/map-edit-page/circle-panel.html.php:12
+msgid "<strong>Move</strong> the mouse to adjust your circles radius."
+msgstr "<strong>Move</strong> the mouse to adjust your circles radius."
+
+#: html/map-edit-page/circle-panel.html.php:7
+msgid "<strong>Click</strong> on the map to set your circles center."
+msgstr "<strong>Click</strong> on the map to set your circle's centre."
+
+#: html/map-edit-page/marker-panel.html.php:174
+msgid "Display on front end"
+msgstr "Display on front end"
+
+#: html/map-edit-page/marker-panel.html.php:112
+msgid "Gallery"
+msgstr "Gallery"
+
+#: html/map-edit-page/marker-panel.html.php:74
+msgid "Extract address from picture"
+msgstr "Extract address from picture"
+
+#: html/map-edit-page/marker-panel.html.php:32
+msgid "Use the fields in the marker editor to edit this markers information"
+msgstr "Use the fields in the marker editor to edit this marker's information"
+
+#: html/map-edit-page/marker-panel.html.php:22
+msgid "Click the <strong>Add Marker</strong> button to create the marker."
+msgstr "Click the <strong>Add Marker</strong> button to create the marker."
+
+#: html/map-edit-page/marker-panel.html.php:17
+#: html/map-edit-page/marker-panel.html.php:37
+msgid "<strong>Click and drag</strong> to adjust the markers position."
+msgstr "<strong>Click and drag</strong> to adjust the marker's position."
+
+#: html/map-edit-page/marker-panel.html.php:12
+msgid "Alternatively, <strong>right click</strong> to manually position your marker."
+msgstr "Alternatively, <strong>right click</strong> to manually position your marker."
+
+#: html/map-edit-page/marker-panel.html.php:7
+msgid "Use the <strong>address</strong> field to add a marker."
+msgstr "Use the <strong>address</strong> field to add a marker."
+
+#: html/map-edit-page/heatmap-panel.html.php:102
+msgid "Add dynamic heatmap data with the <a href=\"%s\" target=\"_BLANK\">Pro version</a>. <a href=\"%s\" target=\"_BLANK\">View a demo</a>"
+msgstr "Add dynamic heatmap data with the <a href=\"%s\" target=\"_BLANK\">Pro version</a>. <a href=\"%s\" target=\"_BLANK\">View a demo</a>"
+
+#: html/map-edit-page/heatmap-panel.html.php:43
+msgid "Gradient"
+msgstr "Gradient"
+
+#: html/map-edit-page/heatmap-panel.html.php:22
+msgid "<strong>Hold right mouse</strong> to draw points freehand"
+msgstr "<strong>Hold right mouse</strong> to draw points freehand"
+
+#: html/map-edit-page/heatmap-panel.html.php:17
+msgid "<strong>Drag</strong> points on the heatmap to re-position them."
+msgstr "<strong>Drag</strong> points on the heatmap to re-position them."
+
+#: html/map-edit-page/heatmap-panel.html.php:12
+msgid "<strong>Click</strong> an existing heatmap point to remove points from the heatmap."
+msgstr "<strong>Click</strong> an existing heatmap point to remove points from the heatmap."
+
+#: html/map-edit-page/heatmap-panel.html.php:7
+msgid "<strong>Click</strong> on the map to add points to your heatmap."
+msgstr "<strong>Click</strong> on the map to add points to your heatmap."
+
+#: html/map-edit-page/map-edit-page.html.php:2633
+msgid "WP Google Maps is a product of <img src='%s' alt='CODECABIN_' style='height: 1em;' class='wpgmze_cc_footer_image'/>"
+msgstr "WP Google Maps is a product of <img src='%s' alt='CODECABIN_' style='height: 1em;' class='wpgmze_cc_footer_image'/>"
+
+#: html/map-edit-page/map-edit-page.html.php:2345
+#: html/map-edit-page/map-edit-page.html.php:2349
+msgid "Add a new Marker"
+msgstr "Add a new Marker"
+
+#: html/map-edit-page/map-edit-page.html.php:2247
+msgid "View the demos"
+msgstr "View the demos"
+
+#: html/map-edit-page/map-edit-page.html.php:2109
+#: html/map-edit-page/map-edit-page.html.php:2113
+msgid "Entries"
+msgstr "Entries"
+
+#: html/map-edit-page/map-edit-page.html.php:2099
+#: html/map-edit-page/map-edit-page.html.php:2103
+msgid "Show:"
+msgstr "Show:"
+
+#: html/map-edit-page/map-edit-page.html.php:2075
+msgid "Change entries string"
+msgstr "Change entries string"
+
+#: html/map-edit-page/map-edit-page.html.php:2062
+#: html/map-edit-page/map-edit-page.html.php:2066
+msgid "entries"
+msgstr "entries"
+
+#: html/map-edit-page/map-edit-page.html.php:2052
+#: html/map-edit-page/map-edit-page.html.php:2056
+msgid "to"
+msgstr "to"
+
+#: html/map-edit-page/map-edit-page.html.php:2043
+#: html/map-edit-page/map-edit-page.html.php:2047
+msgid "of"
+msgstr "of"
+
+#: html/map-edit-page/map-edit-page.html.php:2034
+#: html/map-edit-page/map-edit-page.html.php:2038
+msgid "Showing:"
+msgstr "Showing:"
+
+#: html/map-edit-page/map-edit-page.html.php:2029
+msgid "Change results string"
+msgstr "Change results string"
+
+#: html/map-edit-page/map-edit-page.html.php:2006
+msgid "Search:"
+msgstr "Search:"
+
+#: html/map-edit-page/map-edit-page.html.php:1998
+msgid "Change listing table search string"
+msgstr "Change listing table search string"
+
+#: html/map-edit-page/map-edit-page.html.php:1989
+msgid "First and Last buttons, plus page numbers"
+msgstr "First and Last buttons, plus page numbers"
+
+#: html/map-edit-page/map-edit-page.html.php:1979
+msgid "First, Previous, Next and Last buttons"
+msgstr "First, Previous, Next and Last buttons"
+
+#: html/map-edit-page/map-edit-page.html.php:1974
+msgid "Previous and Next buttons, plus page numbers"
+msgstr "Previous and Next buttons, plus page numbers"
+
+#: html/map-edit-page/map-edit-page.html.php:1969
+msgid "Previous and Next buttons only"
+msgstr "Previous and Next buttons only"
+
+#: html/map-edit-page/map-edit-page.html.php:1964
+msgid "Page number buttons only"
+msgstr "Page number buttons only"
+
+#: html/map-edit-page/map-edit-page.html.php:1952
+msgid "Select different pagination style"
+msgstr "Select different pagination style"
+
+#: html/map-edit-page/map-edit-page.html.php:1932
+msgid "Remove search box"
+msgstr "Remove search box"
+
+#: html/map-edit-page/map-edit-page.html.php:1924
+msgid "No matching records found"
+msgstr "No matching records found"
+
+#: html/map-edit-page/map-edit-page.html.php:1916
+msgid "No results message"
+msgstr "No results message"
+
+#: html/map-edit-page/map-edit-page.html.php:1827
+#: html/map-edit-page/map-edit-page.html.php:1846
+msgid "% or px"
+msgstr "% or px"
+
+#: html/map-edit-page/map-edit-page.html.php:1709
+msgid "Rating"
+msgstr "Rating"
+
+#: html/map-edit-page/map-edit-page.html.php:1704
+msgid "Distance"
+msgstr "Distance"
+
+#: html/map-edit-page/map-edit-page.html.php:1634
+msgid "Grid"
+msgstr "Grid"
+
+#: html/map-edit-page/map-edit-page.html.php:1592
+msgid "Advanced table"
+msgstr "Advanced table"
+
+#: html/map-edit-page/map-edit-page.html.php:1578
+msgid "Basic list"
+msgstr "Basic list"
+
+#: html/map-edit-page/map-edit-page.html.php:1549
+msgid "No marker listing"
+msgstr "No marker listing"
+
+#: html/map-edit-page/map-edit-page.html.php:1378
+msgid "Only load markers within viewport (beta)"
+msgstr "Only load markers within viewport (beta)"
+
+#: html/map-edit-page/map-edit-page.html.php:1355
+msgid "Integration"
+msgstr "Integration"
+
+#: html/map-edit-page/map-edit-page.html.php:1346
+msgid "For multiple sources, separate each one by a comma."
+msgstr "For multiple sources, separate each one by a comma."
+
+#: html/map-edit-page/map-edit-page.html.php:1288
+msgid "Use Raw JPEG coordinates?"
+msgstr "Use RAW JPEG coordinates?"
+
+#: html/map-edit-page/map-edit-page.html.php:1273
+msgid "Disable lightbox for marker images"
+msgstr "Disable lightbox for marker images"
+
+#: html/map-edit-page/map-edit-page.html.php:1166
+msgid "Zoom on marker click"
+msgstr "Zoom on marker click"
+
+#: html/map-edit-page/map-edit-page.html.php:1146
+msgid "Hide point of interest"
+msgstr "Hide point of interest"
+
+#: html/map-edit-page/map-edit-page.html.php:1127
+msgid "Fit map bounds to markers after filtering?"
+msgstr "Fit map bounds to markers after filtering?"
+
+#: html/map-edit-page/map-edit-page.html.php:1108
+msgid "Fit map bounds to markers?"
+msgstr "Fit map bounds to markers?"
+
+#: html/map-edit-page/map-edit-page.html.php:1089
+msgid "Click marker opens link"
+msgstr "Click marker opens link"
+
+#: html/map-edit-page/map-edit-page.html.php:1032
+msgid "This feature will use the users location (where available) or the searched address when a store locator search is performed."
+msgstr "This feature will use the user's location (where available) or the searched address when a store locator search is performed."
+
+#: html/map-edit-page/map-edit-page.html.php:1012
+msgid "Show distance from location?"
+msgstr "Show distance from location?"
+
+#: html/map-edit-page/map-edit-page.html.php:965
+msgid "Automatically pan to users location?"
+msgstr "Automatically pan to users location?"
+
+#: html/map-edit-page/map-edit-page.html.php:933
+msgid "Enable user geolocation features with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=advanced\">Pro add-on</a>"
+msgstr "Enable user geolocation features with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=advanced\">Pro add-on</a>"
+
+#: html/map-edit-page/map-edit-page.html.php:842
+msgid "Enable custom marker icons with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=advanced\">Pro add-on</a>"
+msgstr "Enable custom marker icons with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=advanced\">Pro add-on</a>"
+
+#: html/map-edit-page/map-edit-page.html.php:807
+msgid "Enable custom styling options with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=store-locator\">Pro add-on</a>"
+msgstr "Enable custom styling options with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=store-locator\">Pro add-on</a>"
+
+#: html/map-edit-page/map-edit-page.html.php:791
+msgid "Fill opacity"
+msgstr "Fill opacity"
+
+#: html/map-edit-page/map-edit-page.html.php:737
+msgid "Style options"
+msgstr "Style options"
+
+#: html/map-edit-page/map-edit-page.html.php:696
+msgid "Enable title search"
+msgstr "Enable title search"
+
+#: html/map-edit-page/map-edit-page.html.php:712
+msgid "Title search String"
+msgstr "Title search string"
+
+#: html/map-edit-page/map-edit-page.html.php:656
+msgid "Hide all markers until a search is done"
+msgstr "Hide all markers until a search is done"
+
+#: html/map-edit-page/map-edit-page.html.php:630
+msgid "Marker animation"
+msgstr "Marker animation"
+
+#: html/map-edit-page/map-edit-page.html.php:604
+msgid "Show center point as an icon"
+msgstr "Show centre point as an icon"
+
+#: html/map-edit-page/map-edit-page.html.php:597
+msgid "Enable user geolocation features with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=store-locator\">Pro add-on</a>"
+msgstr "Enable user geolocation features with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=store-locator\">Pro add-on</a>"
+
+#: html/map-edit-page/map-edit-page.html.php:581
+msgid "Allow users to use their location as the starting point"
+msgstr "Allow users to use their location as the starting point"
+
+#: html/map-edit-page/map-edit-page.html.php:574
+msgid "Enable search by category with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=store-locator\">Pro add-on</a>"
+msgstr "Enable search by category with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=store-locator\">Pro add-on</a>"
+
+#: html/map-edit-page/map-edit-page.html.php:558
+msgid "Allow category selection"
+msgstr "Allow category selection"
+
+#: html/map-edit-page/map-edit-page.html.php:483
+msgid "Maximum zoom"
+msgstr "Maximum zoom"
+
+#: html/map-edit-page/map-edit-page.html.php:432
+msgid "Enable intelligent, automatic search area with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=store-locator\">Pro add-on</a>"
+msgstr "Enable intelligent, automatic search area with our <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=store-locator\">Pro add-on</a>"
+
+#: html/map-edit-page/map-edit-page.html.php:413
+msgid "Intelligently detects the zoom level based on the location entered"
+msgstr "Intelligently detects the zoom level based on the location entered"
+
+#: html/map-edit-page/map-edit-page.html.php:406
+msgid "Auto"
+msgstr "Auto"
+
+#: html/map-edit-page/map-edit-page.html.php:392
+msgid "Allows the user to select a radius from a predefined list"
+msgstr "Allows the user to select a radius from a predefined list"
+
+#: html/map-edit-page/map-edit-page.html.php:385
+msgid "Radial"
+msgstr "Radial"
+
+#: html/map-edit-page/map-edit-page.html.php:24
+msgid "Unsaved data will be lost"
+msgstr "Unsaved data will be lost"
+
+#: html/map-edit-page/map-edit-page.html.php:18
+msgid "New"
+msgstr "New"
+
+#: html/map-edit-page/rectangle-panel.html.php:32
+msgid "<strong>Click and drag</strong> the edges of the rectangle to resize it."
+msgstr "<strong>Click and drag</strong> the edges of the rectangle to resize it."
+
+#: html/map-edit-page/rectangle-panel.html.php:27
+msgid "<strong>Click and drag</strong> corners of the rectangle to resize it."
+msgstr "<strong>Click and drag</strong> corners of the rectangle to resize it."
+
+#: html/map-edit-page/rectangle-panel.html.php:22
+msgid "Use the fields below to edit this rectangles information."
+msgstr "Use the fields below to edit this rectangle's information."
+
+#: html/map-edit-page/rectangle-panel.html.php:12
+msgid "<strong>Click</strong> again to set the other corner and to finish drawing your rectangle."
+msgstr "<strong>Click</strong> again to set the other corner and to finish drawing your rectangle."
+
+#: html/map-edit-page/rectangle-panel.html.php:7
+msgid "<strong>Click</strong> on the map to set the first corner of your rectangle."
+msgstr "<strong>Click</strong> on the map to set the first corner of your rectangle."
+
+#: html/map-edit-page/polyline-panel.html.php:104
+msgid "Polyline data"
+msgstr "Polyline data"
+
+#: html/map-edit-page/polyline-panel.html.php:27
+msgid "Use the fields below to edit this polylines information."
+msgstr "Use the fields below to edit this polyline's information."
+
+#: html/map-edit-page/polyline-panel.html.php:17
+msgid "<strong>Complete</strong> drawing your polyline by <strong>clicking</strong> the end point a second time."
+msgstr "<strong>Complete</strong> drawing your polyline by <strong>clicking</strong> the end point a second time."
+
+#: html/map-edit-page/polyline-panel.html.php:12
+msgid "Add at least <strong>two</strong> points"
+msgstr "Add at least <strong>two</strong> points"
+
+#: html/map-edit-page/polyline-panel.html.php:7
+msgid "<strong>Click</strong> on the map to start drawing your polyline."
+msgstr "<strong>Click</strong> on the map to start drawing your polyline."
+
+#: html/map-edit-page/polygon-panel.html.php:168
+msgid "Polygon data"
+msgstr "Polygon data"
+
+#: html/map-edit-page/circle-panel.html.php:86
+#: html/map-edit-page/heatmap-panel.html.php:72
+#: html/map-edit-page/map-edit-page.html.php:770
+#: html/map-edit-page/polygon-panel.html.php:105
+#: html/map-edit-page/polygon-panel.html.php:128
+#: html/map-edit-page/polygon-panel.html.php:160
+#: html/map-edit-page/polyline-panel.html.php:87
+#: html/map-edit-page/rectangle-panel.html.php:72
+msgid "(0 - 1.0) example: 0.5 for 50%"
+msgstr "(0 - 1.0) example: 0.5 for 50%"
+
+#: html/map-edit-page/polygon-panel.html.php:42
+#: html/map-edit-page/polyline-panel.html.php:42
+msgid "<strong>Hold Alt</strong> and click to remove vertices."
+msgstr "<strong>Hold Alt</strong> and click to remove vertices."
+
+#: html/map-edit-page/polygon-panel.html.php:37
+#: html/map-edit-page/polyline-panel.html.php:37
+msgid "<strong>Click and drag</strong> any edge to add vertices."
+msgstr "<strong>Click and drag</strong> any edge to add vertices."
+
+#: html/map-edit-page/polygon-panel.html.php:32
+#: html/map-edit-page/polyline-panel.html.php:32
+msgid "<strong>Click and drag</strong> existing vertices to move them."
+msgstr "<strong>Click and drag</strong> existing vertices to move them."
+
+#: html/map-edit-page/polygon-panel.html.php:27
+msgid "Use the fields below to edit this polygons information."
+msgstr "Use the fields below to edit this polygon's information."
+
+#: html/map-edit-page/polygon-panel.html.php:17
+msgid "<strong>Complete</strong> drawing your polygon by <strong>clicking</strong> the start point a second time."
+msgstr "<strong>Complete</strong> drawing your polygon by <strong>clicking</strong> the start point a second time."
+
+#: html/map-edit-page/polygon-panel.html.php:12
+msgid "Add at least <strong>three</strong> points"
+msgstr "Add at least <strong>three</strong> points"
+
+#: html/map-edit-page/polygon-panel.html.php:7
+msgid "<strong>Click</strong> on the map to start drawing your polygon."
+msgstr "<strong>Click</strong> on the map to start drawing your polygon."
+
+#: includes/class.strings.php:42
+msgid "Please create the polyline first."
+msgstr "Please create the polyline first."
+
+#: includes/class.strings.php:41
+msgid "Please create the polygon first."
+msgstr "Please create the polygon first."
+
+#: includes/class.strings.php:40
+msgid "Please create the rectangle first."
+msgstr "Please create the rectangle first."
+
+#: includes/class.strings.php:39
+msgid "Please create the circle first."
+msgstr "Please create the circle first."
+
+#: wpGoogleMaps.php:1603
+msgid "If you are struggling to update your Pro version from within WordPress, please get the latest ZIP file <a target=\"_BLANK\" href=\"%s\">here</a>."
+msgstr "If you are struggling to update your Pro version from within WordPress, please get the latest ZIP file <a target=\"_BLANK\" href=\"%s\">here</a>."
+
+#: wpGoogleMaps.php:1599
+msgid "We have automatically given all PRO users the ability to update to 8.0.34 and then further to 8.1. Any major versions below 8 will no longer be supported."
+msgstr "We have automatically given all PRO users the ability to update to 8.0.34 and then further to 8.1. Any major versions below 8 will no longer be supported."
+
+#: wpGoogleMaps.php:1595
+msgid "You are currently using an outdated PRO version. You need to <a href=\"%s\">update your PRO version</a> to the latest version (8.*)."
+msgstr "You are currently using an outdated PRO version. You need to <a href=\"%s\">update your PRO version</a> to the latest version (8.*)."
+
+#: wpGoogleMaps.php:1592
+msgid "Urgent notice"
+msgstr "Urgent notice"
+
+#: html/settings-page.html.php:1202
+msgid "This API key can be obtained from the <a href='https://openrouteservice.org/dev/#/login' target='_BLANK'>OpenRouteService Developers Console</a>."
+msgstr "This API key can be obtained from the <a href='https://openrouteservice.org/dev/#/login' target='_BLANK'>OpenRouteService Developers Console</a>."
+
+#: html/settings-page.html.php:918
+msgid "Show X items by default"
+msgstr "Show X items by default"
+
+#: html/settings-page.html.php:745
+msgid "Enabling this setting will prevent any infowindows from opening for all your maps"
+msgstr "Enabling this setting will prevent any infowindows from opening for all your maps"
+
+#: html/settings-page.html.php:716
+msgid "Link text"
+msgstr "Link text"
+
+#: html/settings-page.html.php:709
+msgid "Hide the address field"
+msgstr "Hide the address field"
+
+#: html/settings-page.html.php:697
+msgid "(Tick this if you want to open your links in a new window)"
+msgstr "(Tick this if you want to open your links in a new window)"
+
+#: html/settings-page.html.php:696
+msgid "Open links in a new window "
+msgstr "Open links in a new window "
+
+#: html/settings-page.html.php:683
+msgid "Other settings"
+msgstr "Other settings"
+
+#: html/settings-page.html.php:656
+msgid "Resize all images to the below sizes"
+msgstr "Resize all images to the below sizes"
+
+#: html/settings-page.html.php:537
+msgid "Prevents the larger image lightbox from opening up when pictures in the infowindow or marker listing are clicked"
+msgstr "Prevents the larger image lightbox from opening up when pictures in the infowindow or marker listing are clicked"
+
+#: html/settings-page.html.php:523
+msgid "Check this setting to disable two finger pan on mobiles, and Ctrl + Zoom on desktops. Enabling this setting will allow one finger panning on mobiles, and will enable zoom without Ctrl on desktops."
+msgstr "Check this setting to disable two finger pan on mobiles, and Ctrl + Zoom on desktops. Enabling this setting will allow one finger panning on mobiles, and will enable zoom without Ctrl on desktops."
+
+#: html/theme-panel.html.php:259 html/theme-panel.html.php:260
+msgid "Enter theme JSON data manually"
+msgstr "Enter theme JSON data manually"
+
+#: html/theme-panel.html.php:235
+msgid "Looking for more themes? <a href=\"%s\" target=\"_BLANK\">Browse our theme directory</a>."
+msgstr "Looking for more themes? <a href=\"%s\" target=\"_BLANK\">Browse our theme directory</a>."
+
+#: wpGoogleMaps.php:1667
+msgid "To continue using WP Google Maps, please downgrade to PHP 7, as it is fully supported by our plugin."
+msgstr "To continue using WP Google Maps, please downgrade to PHP 7, as it is fully supported by our plugin."
+
+#: wpGoogleMaps.php:1661
+msgid "PHP 8 includes significant changes from PHP 7, which may cause unexpected issues with our core functionality. WP Google Maps is not officially supported with PHP 8, but support will be added in the near future."
+msgstr "PHP 8 includes significant changes from PHP 7, which may cause unexpected issues with our core functionality. WP Google Maps is not officially supported with PHP 8, but support will be added in the near future."
+
+#: includes/class.strings.php:105
+msgid "Autocomplete disabled. <a href=\"%s\" target=\"_BLANK\">Find out more</a>."
+msgstr "Autocomplete disabled. <a href=\"%s\" target=\"_BLANK\">Find out more</a>."
 
 #: includes/class.strings.php:102
 msgid "Are you sure you want to delete these maps?"
@@ -63,6 +750,14 @@ msgstr "Some interactions are disabled."
 #: includes/class.strings.php:90
 msgid "Duplicate custom field names, please ensure you only add unique custom field names."
 msgstr "Duplicate custom field names, please ensure you only add unique custom field names."
+
+#: html/map-edit-page/map-edit-page.html.php:2257
+msgid "Need help? <a href=\"https://www.wpgmaps.com/forums/\" target=\"_BLANK\">Ask a question on our support forum</a>."
+msgstr "Need help? <a href=\"https://www.wpgmaps.com/forums/\" target=\"_BLANK\">Ask a question on our support forum</a>."
+
+#: html/map-edit-page/map-edit-page.html.php:2252
+msgid "Have a sales question? Contact Nick on <a href=\"mailto:nick@wpgmaps.com\">nick@wpgmaps.com</a> or use our <a href=\"https://www.wpgmaps.com/contact-us/\" target=\"_BLANK\">contact form</a>."
+msgstr "Have a sales question? Contact Nick on <a href=\"mailto:nick@wpgmaps.com\">nick@wpgmaps.com</a> or use our <a href=\"https://www.wpgmaps.com/contact-us/\" target=\"_BLANK\">contact form</a>."
 
 #: html/map-edit-page/map-edit-page.html.php:2241
 msgid "Upgrade Now"
@@ -160,6 +855,10 @@ msgstr "Use ctrl + scroll to zoom the map"
 msgid "Invalid theme data"
 msgstr "Invalid theme data"
 
+#: html/settings-page.html.php:213
+msgid "OR"
+msgstr "OR"
+
 #: includes/class.strings.php:86
 msgid "This operation is not reversable. We recommend you take a backup before proceeding. Would you like to continue?"
 msgstr "This operation is not reversable. We recommend you take a backup before proceeding. Would you like to continue?"
@@ -187,6 +886,14 @@ msgstr "Flush"
 #: html/settings-page.html.php:1310
 msgid "Other Caching"
 msgstr "Other Caching"
+
+#: html/settings-page.html.php:1152
+msgid ""
+"This API key can be obtained from \n"
+"\t\t\t\t\t\tthe <a href='https://wpgmaps.com/google-maps-developer-console/' target='_BLANK'>Google Developers Console</a>. Our <a href='http://www.wpgmaps.com/documentation/creating-a-google-maps-api-key/' target='_BLANK'>documentation</a> provides a full guide on how to obtain this."
+msgstr ""
+"This API key can be obtained from \n"
+"\t\t\t\t\t\tthe <a href='https://wpgmaps.com/google-maps-developer-console/' target='_BLANK'>Google Developers Console</a>. Our <a href='http://www.wpgmaps.com/documentation/creating-a-google-maps-api-key/' target='_BLANK'>documentation</a> provides a full guide on how to obtain this."
 
 #: html/settings-page.html.php:1143
 msgid "API Keys"
@@ -335,6 +1042,18 @@ msgstr "Dark Grey"
 #: html/theme-panel.html.php:124
 msgid "Red"
 msgstr "Red"
+
+#: html/theme-panel.html.php:102
+msgid "Pale"
+msgstr "Pale"
+
+#: html/theme-panel.html.php:58
+msgid "Apple Maps"
+msgstr "Apple Maps"
+
+#: html/map-edit-page/heatmap-panel.html.php:57 html/theme-panel.html.php:36
+msgid "Blue"
+msgstr "Blue"
 
 #: includes/class.strings.php:22
 msgid "Use my location"

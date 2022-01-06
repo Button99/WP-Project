@@ -937,7 +937,9 @@ class Poll_Maker_Ays_Public {
 		// ==== Buttons styles start ====
 		
         // Buttons font size
-        $buttons_font_size          = isset($options['poll_buttons_font_size']) && $options['poll_buttons_font_size'] != '' ? esc_attr($options['poll_buttons_font_size']) . 'px' : '17px';        
+        $buttons_font_size          = isset($options['poll_buttons_font_size']) && $options['poll_buttons_font_size'] != '' ? esc_attr($options['poll_buttons_font_size']) . 'px' : '17px';
+        // Buttons mobile font size
+        $poll_buttons_mobile_font_size = isset($options['poll_buttons_mobile_font_size']) && $options['poll_buttons_mobile_font_size'] != '' ? esc_attr($options['poll_buttons_mobile_font_size']) . 'px' : $buttons_font_size;        
         // Buttons Left / Right padding
         $buttons_left_right_padding = isset($options['poll_buttons_left_right_padding']) && $options['poll_buttons_left_right_padding'] != '' ? esc_attr($options['poll_buttons_left_right_padding']) . 'px' : '20px';
         // Buttons Top / Bottom padding
@@ -1582,6 +1584,13 @@ class Poll_Maker_Ays_Public {
 			#".$this_poll_id.".box-apm .apm-answers .apm-choosing > label.ays-poll-answer-container-label-list > div.ays-poll-answers > span.ays-poll-each-answer-list {
 				padding: unset;
 				word-wrap: break-word;
+			}
+
+			#".$this_poll_id." .ays-poll-btn{
+				font-size: " . $poll_buttons_mobile_font_size . ";
+				line-height: 1;
+				white-space: normal;
+				word-break: break-word;
 			}
 		}
 

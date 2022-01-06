@@ -36,22 +36,22 @@
                                     <?php echo __( 'Free', $this->plugin_name ); ?></span></div>
                     </th>
                     <th class="price-info">
-                        <!-- <div class="price-now"><span>$39</span></div> -->
-                        <div class="price-now">
+                        <div class="price-now"><span>$39</span></div>
+                        <!-- <div class="price-now">
                             <span style="text-decoration: line-through; color: red;">$39</span>
-                        </div>
-                        <div class="price-now">
+                        </div> -->
+                        <!-- <div class="price-now">
                             <span>$31</span>
                         </div>
                         <div class="price-now">
                             <span style="color: red; font-size: 12px;">Until January 1</span>
-                        </div>
+                        </div> -->
                     </th>
                     <th class="price-info">
-                        <!-- <div class="price-now">
-                            <span>$99</span>
-                        </div> -->
                         <div class="price-now">
+                            <span>$99</span>
+                        </div>
+                        <!-- <div class="price-now">
                             <span span style="text-decoration: line-through; color: red;">$99</span>
                         </div>
                         <div class="price-now">
@@ -59,7 +59,7 @@
                         </div>
                         <div class="price-now">
                             <span style="color: red; font-size: 12px;">Until January 1</span>
-                        </div> 
+                        </div>  -->
                     </th>
                 </tr>
                 </thead>

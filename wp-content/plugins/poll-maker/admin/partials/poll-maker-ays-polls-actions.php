@@ -474,6 +474,9 @@ $poll_mobile_max_width = (isset($options['poll_mobile_max_width']) && $options['
 // Buttons font size
 $poll_buttons_font_size = (isset($options['poll_buttons_font_size']) && $options['poll_buttons_font_size'] != "") ? esc_attr($options['poll_buttons_font_size']) : '17';
 
+// Buttons mobile font size
+$poll_buttons_mobile_font_size = (isset($options['poll_buttons_mobile_font_size']) && $options['poll_buttons_mobile_font_size'] != "") ? esc_attr($options['poll_buttons_mobile_font_size']) : '17';
+
 // Buttons Left / Right padding
 $poll_buttons_left_right_padding = (isset($options['poll_buttons_left_right_padding']) && $options['poll_buttons_left_right_padding'] != '') ? esc_attr($options['poll_buttons_left_right_padding']) : '20';
 
@@ -2301,6 +2304,20 @@ $emoji = array(
                                 </div>
                                 <div class="col-sm-8 ays_divider_left">
                                     <input type="number" class="ays-text-input ays-text-input-short" id='ays_poll_buttons_font_size' name='ays_poll_buttons_font_size' value="<?php echo $poll_buttons_font_size; ?>"/>
+                                </div>
+                            </div> <!-- Buttons font size -->
+                            <hr>
+                            <div class="form-group row">
+                                <div class="col-sm-4">
+                                    <label for='ays_poll_buttons_mobile_font_size'>
+                                        <?php echo __('Buttons mobile font size', $this->plugin_name); ?> (px)
+                                        <a class="ays_help" data-toggle="tooltip" title="<?php echo __('Define the size of the button(s) inside the poll in pixels for mobile devices.',$this->plugin_name); ?>">
+                                            <i class="ays_poll_fas ays_poll_fa-info-circle"></i>
+                                        </a>
+                                    </label>
+                                </div>
+                                <div class="col-sm-8 ays_divider_left">
+                                    <input type="number" class="ays-text-input ays-text-input-short" id='ays_poll_buttons_mobile_font_size' name='ays_poll_buttons_mobile_font_size' value="<?php echo $poll_buttons_mobile_font_size; ?>"/>
                                 </div>
                             </div> <!-- Buttons font size -->
                             <hr>
@@ -5469,30 +5486,30 @@ $emoji = array(
                 </div>
                 <hr/>
             </div>
-            <div class="form-group row ays-poll-general-bundle-container">
+            <!-- <div class="form-group row ays-poll-general-bundle-container">
                 <div class="col-sm-12 ays-poll-general-bundle-box">
-                    <!-- <div class="ays-poll-general-bundle-row ays-poll-general-bundle-image-row">
+                     <div class="ays-poll-general-bundle-row ays-poll-general-bundle-image-row">
                         <a href="https://ays-pro.com/wordpress/poll-maker" target="_blank"><img src="<?php //echo POLL_MAKER_AYS_ADMIN_URL; ?>/images/black_friday_banner_logo.png"></a>
-                    </div> -->
+                    </div>
                     <div class="ays-poll-general-bundle-row">
                         <div class="ays-poll-general-bundle-text">
-                            <?php echo __( "Do not miss", $this->plugin_name ); ?>
-                            <span><?php echo __( "20% Christmas gift SALE", $this->plugin_name ); ?></span>
-                            <?php echo __( "on Poll Maker plugin!", $this->plugin_name ); ?>
+                            <?php //echo __( "Do not miss", $this->plugin_name ); ?>
+                            <span><?php //echo __( "20% Christmas gift SALE", $this->plugin_name ); ?></span>
+                            <?php //echo __( "on Poll Maker plugin!", $this->plugin_name ); ?>
                             <span class="ays-poll-general-bundle-color">
                                 <a href="https://ays-pro.com/wordpress/poll-maker" class="ays-poll-general-bundle-link-color" target="_blank"><?php //echo __( "Poll Maker", $this->plugin_name ); ?></a>
                             </span> <?php //echo __( "plugin!", $this->plugin_name ); ?>
                         </div>
-                        <p><?php echo __( "Prepare your website for winter colds with the best polls.", $this->plugin_name ); ?></p>
+                        <p><?php //echo __( "Prepare your website for winter colds with the best polls.", $this->plugin_name ); ?></p>
                         <div class="ays-poll-general-bundle-sale-text ays-poll-general-bundle-color">
-                            <div><a href="https://ays-pro.com/wordpress/poll-maker" class="ays-poll-general-bundle-link-color" target="_blank"><?php echo __( "Discount 20% OFF", $this->plugin_name ); ?></a></div>
+                            <div><a href="https://ays-pro.com/wordpress/poll-maker" class="ays-poll-general-bundle-link-color" target="_blank"><?php //echo __( "Discount 20% OFF", $this->plugin_name ); ?></a></div>
                         </div>
                     </div>
                     <div class="ays-poll-general-bundle-row">
                         <a href="https://ays-pro.com/wordpress/poll-maker" class="ays-poll-general-bundle-button" target="_blank">Get Now!</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="ays_save_buttons_content">
                 <h1>
                     <?php
